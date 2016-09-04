@@ -2,5 +2,5 @@
 
 These are general rules to follow when solving Big-O problems:
 
-1- 
+1--
 
