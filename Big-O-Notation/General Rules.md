@@ -10,7 +10,7 @@ When we analyze time complexity, we should keep in mind that we looking for anal
 2- Worst case scenario 
 
 
-### Rule 1: Calculating Big-O from Polynomial expression 
+### Rule 1: Calculating Big-O from Polynomial expressions
 
 a) Look for the highest power in the expression
 
@@ -100,10 +100,63 @@ if you come accross nested loops, count the nested loops and multiply it by simp
 
 The answer: __O(n<sup>2</sup>)__
 
+__For complex Functions__
+
+For calculating the run-time of complex functions that have multiple loops __(single and nested)__ and simple statments,
+we add the fragements together.
+
+#### Example 1:
+```
+def complex_fun():
+    
+    n = [10,3,5]; O(1)
+    
+    print n       O(1)
+    
+    for m in n :  O(n)
+        print m 
+        
+    for x in n:  # Remember that in nested loop time the number of loop inside with the statements, so O(n) * O(n) * O(1) = O(n^2)
+        for i in n:
+            print i
+```
+To find out the overall run-time, add the fragments together:
+
+O(1) + O(1) + O(n) + O(n<sup>2</sup>)
+
+- Use the polynomial rule which states: look for the hight polynomial and that would be the run-time of the problem
+- The highest polynomial in this problem in __n<sup>2</sup>__
+
+So, the answer is __O(n<sup>2</sup>)__
+ 
+# Rule 3: Calculating Conditional Statements
+
+In functions that have conditional statements in them, pick the worst scenario for the run-time, meaning pick __longest run-time__
+
+```
+def if_funs():
+    
+    n= range(0,10) O(1)
+    a = 1          O(1)
+    
+    if (a == 1):
+        for m in n : O(n)
+            print m 
+    else:
+        for x in n:   O(n^2)
+            for i in n:
+                print i
+```
+
+The run-time of  _if_ a == 1 is __O(n)__, while the run-time of _else_ is __O(n<sup>2</sup>)__
+
+The longest run-time would be (highest polynomial), which is here : __O(n<sup>2</sup>)__
+
+Therefore the answer is __O(n<sup>2</sup>)__
 
 
- 
- 
+
+
 
 
 
