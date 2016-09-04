@@ -22,11 +22,11 @@ Examples:
 
 ### Bad Answer:
 ```  
-def sum_all_nums(n+1):
+def sum_all_nums(n):
 
   sum_of_nums = 0;
   
-  for x in range(0,n):
+  for x in range(n+1):
   
     sum_of_nums += x
   
