@@ -122,3 +122,13 @@ def print_checkerboard(n):
     print
 ```
 #### The answer is ????????????
+
+### Example 8:
+
+```
+x = n
+while x > 0:
+   y = 2 + 2
+   x = x // 2
+```
+#### The answer is O(log<sub>n</sub>)
