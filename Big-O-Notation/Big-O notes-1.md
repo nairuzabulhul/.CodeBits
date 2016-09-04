@@ -22,7 +22,7 @@ Examples:
 
 ### Bad Answer:
 ```  
-def sum_all_nums(n):
+def sum_all_nums(n+1):
 
   sum_of_nums = 0;
   
