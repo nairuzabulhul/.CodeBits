@@ -13,6 +13,7 @@ When we analyze time complexity, we should keep in mind that we looking for anal
 ### Rule 1: Calculating Big-O from Polynomial expression 
 
 a) Look for the highest power in the expression
+
 b) Drop the multiplier 
 
 #### Examples 1 :
@@ -45,6 +46,7 @@ __For simple expression  as :__
 - b = 7  (variable)
 - print statements
 - return statements
+-  a++
  
  The run time for all of the above is __O constatnt__ , __O(1)__
  
@@ -91,8 +93,10 @@ if you come accross nested loops, count the nested loops and multiply it by simp
 ```
 - In this exmple, we have __2 for loop__ means O(n) x O(n)
 - One single print statement means __O(1)__
-
-O(n) * O(n) * O(1) = O(n<sup>2</sup>)
+ ```
+ O(n) * O(n) * O(1) 
+ 
+ ```
 
 The answer: __O(n<sup>2</sup>)__
 
