@@ -67,7 +67,7 @@ def insertion_sort(arr):
     j = j - 1
   return arr
 ```
-#### The answer is O(n<sup>2</sup>)
+#### The answer is ???????????
 
 ### Example 5 (not python):
 
