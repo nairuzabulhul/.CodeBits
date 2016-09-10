@@ -1,4 +1,4 @@
-## Anagram 
+## Anagram:
 
 
 ## Problem 1:
