@@ -1,6 +1,6 @@
-# Algorithms_in_Python
+# Algorithms and Data Structure in Python 
 
-![Log](http://www.jamisbuck.org/presentations/rubyconf2011/images/gospel-of-algorithms.png)
+![Log](https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif)
 
 
 ###Topics 
