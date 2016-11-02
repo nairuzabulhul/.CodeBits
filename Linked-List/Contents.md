@@ -11,7 +11,8 @@
   -   String representation of the list
 
 - [Double_link_list :] (https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master/Linked-List/Problems/Doubly_Link_List)
-    - [Implementation of a  Double link list] ()
+
+    - [Implementation of a  Double link list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Implementation%20of%20Doubly_linked_list.md)
     - [Insert a node in a middle of two nodes] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20in%20a%20middle%20of%20two%20nodes.md )
     - Add node in the beginging of the list
     - Add node at the back of the list
