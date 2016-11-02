@@ -1,8 +1,9 @@
-##### Content list contains everything in this section
+### THINGS YOU SHOULD KNOW ABOUT TREES:
 
-###Notes:
+#### Notes:
 
-- Introduction to Trees:
+- Introduction to Trees
+- Binary Trees
 
 
 ### Problems:
