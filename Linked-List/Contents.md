@@ -8,7 +8,7 @@
   -   Add Node at the begining of the list 
   -   Add Node at the end of the list 
   -   Size of the list 
-  -   String representation of the list
+  -   [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
 
 - [Double_link_list :] (https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master/Linked-List/Problems/Doubly_Link_List)
 
@@ -17,7 +17,7 @@
     - Add node in the beginging of the list
     - Add node at the back of the list
     - Size of the list 
-    - String representation of the list
+    - [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
     
     
     
