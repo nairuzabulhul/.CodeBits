@@ -1,5 +1,5 @@
 ## Notes:
- - [Introduction to Linked List ](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Introduction%20to%20Linked%20List.md)
+ - [Introduction to Linked List ](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Notes/Introduction%20to%20Linked%20List.md)
 
 
 ## Problems: 
