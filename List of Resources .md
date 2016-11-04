@@ -3,7 +3,7 @@
 ###### Note: This list of resources of things I tried myself and the ratings are based on my opinion 
 
 
-####Algorithms:
+#### Books in Algorithms $ General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -22,6 +22,10 @@
                                                              
    -  Volient Python 
    -  Black Python 
+   - Think Like a Programmer: An Introduction to Creative Problem Solving
+   - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+   - The Linux Command Line: A Complete Introduction 
+   
   
   
 
@@ -156,5 +160,16 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                    
+                                                               
+                                                              
+                                                              
+                                                              
+### Extra Resources
+
+- [TalkPython] (https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                              
                                                                        
