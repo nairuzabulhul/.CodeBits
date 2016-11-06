@@ -1,8 +1,6 @@
 ### Write a program to delete a node from a doubly linked list
 
 ```
-import gc
-
 class Node:
 
     def __init__(self, data):
