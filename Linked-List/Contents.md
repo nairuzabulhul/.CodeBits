@@ -1,6 +1,3 @@
-
-<img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
-
 ## Notes:
  - [Introduction to Linked List ](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Notes/Introduction%20to%20Linked%20List.md)
 
