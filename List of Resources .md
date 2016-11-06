@@ -1,6 +1,9 @@
+
+<img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
+
 #### List of resources:
 
-###### Note: This list of resources of things I tried myself and the ratings are based on my opinion 
+###### Note: The ratings are based on my opinion 
 
 
 #### Books in Algorithms $ General Computer Science Topics
@@ -164,7 +167,7 @@
                                                               
                                                               
                                                               
-### Extra Resources
+#### Extra Resources
 
 - [TalkPython] (https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
