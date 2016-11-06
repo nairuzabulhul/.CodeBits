@@ -9,7 +9,7 @@
   -   [Add Node at the end of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Add%20node%20at%20the%20back%20of%20Linked%20list.md)
   -   Size of the list 
   -   [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
-  - Delete a node in Linked List
+  - [Delete a node in Singly Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Delete%20a%20node%20from%20Singly%20List.md)
 
 - [Double_link_list :] (https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master/Linked-List/Problems/Doubly_Link_List)
 
@@ -19,7 +19,7 @@
     - [Add node at the back of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Add%20node%20at%20the%20back%20of%20Linked%20list.md)
     - Size of the list 
     - [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
-    - Delete a node in Linked List
+    - [Delete a node in Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Delete%20a%20node%20in%20Doubly%20List.md)
     
     
     
