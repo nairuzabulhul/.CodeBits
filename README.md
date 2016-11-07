@@ -2,12 +2,19 @@
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
 
-#### List of resources@2016
+#### List of resources@201
 
 ###### Note: The ratings are based on my opinion 
 
-##### Algorithms and Dat:
-- [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+##### Must Do Interview Questions:
+####### Level: Easy & Medium
+####### Source : LeetCode, HackerRank
+
+- Arrays:
+- [Linked List]: (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+- Trees :
+- Backtracking:
+- Dynamic Programming:
 
 #### Books in Algorithms $ General Computer Science Topics
 
