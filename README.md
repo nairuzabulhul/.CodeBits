@@ -9,7 +9,7 @@
 
 ###  Must Do Interview Questions:
 
-##### Note: Every topic links to easy and medium level questions taken from LeetCode, HackerRank and CTCI
+##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and CTCI
 - Arrays:
 - [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - Trees :
