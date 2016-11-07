@@ -5,7 +5,7 @@
 
 
 
-###### Note: The ratings are based on my opinion 
+###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
 
 ###  Must Do Interview Questions:
 
