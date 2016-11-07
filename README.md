@@ -7,10 +7,7 @@
 
 ###### Note: The ratings are based on my opinion 
 
-### -  Must Do Interview Questions:
-
-##### Level: Easy & Medium
-##### Source : LeetCode, HackerRank
+###  Must Do Interview Questions:
 
 - Arrays:
 - [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
