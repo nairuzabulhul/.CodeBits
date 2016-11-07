@@ -6,6 +6,8 @@
 
 ###### Note: The ratings are based on my opinion 
 
+##### Algorithms and Dat:
+- [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 
 #### Books in Algorithms $ General Computer Science Topics
 
