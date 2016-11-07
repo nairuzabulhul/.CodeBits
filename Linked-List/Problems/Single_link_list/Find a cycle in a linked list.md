@@ -16,7 +16,7 @@ class FindCycle:
         first_pointer = head
         second_pointer - head
 
-        # check id the second pointer is not None
+        # check if the second pointer is not None
         while second_pointer is not None and second_pointer.next is not None:
 
             first_pointer = first_pointer.next
