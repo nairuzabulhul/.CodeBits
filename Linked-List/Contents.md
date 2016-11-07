@@ -12,7 +12,8 @@
   - [Add node at the back of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Add%20node%20at%20the%20back%20of%20Linked%20list.md)
   - [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
   - [Delete a node in Doubly Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Delete%20a%20node%20in%20Doubly%20List.md)
-    
+  - [Find a cycle in a linked list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Find%20a%20cycle%20in%20a%20linked%20list.md)
+  - Remove Nth node from the end of a linked list 
     
     
 
