@@ -8,7 +8,9 @@
   
   - [Implementation of a  Double link list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Implementation%20of%20Doubly_linked_list.md)
   
-  - [Add a node at the beginging of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20at%20the%20beginning%20of%20the%20Doubly%20list.md)
+ - [Add a node at the beginging of a Singly list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20at%20the%20beginning%20of%20the%20Doubly%20list.md)
+  
+  - [Add a node at the beginging of a Doubly list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20at%20the%20beginning%20of%20the%20Doubly%20list.md)
   
   - [Insert a node in a middle of two nodes] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20in%20a%20middle%20of%20two%20nodes.md )
   
