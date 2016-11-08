@@ -38,19 +38,42 @@ class SinglyList:
 
 """"
 Strategy
+1- Set 2 pointer at the head: first_pointer and second_pointer 
 
-1- Set 2 pointers
+2- Move the first pointer n node , then move the second pointer by keep a gap of n node between the first_pointer and second_pointer
 
-2- Move the first pointer n+1 steps
+3- when the first_point reaches the last node in the list, the second node will be in the n position 
 
-3- Second Pointer remains at the begining of the list
+Example 
 
-4- Now, both pointers are exactly separated by nn nodes apart.
+You have a list of 
 
-5-We maintain this constant gap by advancing both pointers together until the first pointer arrives past the last node.
+   1 - 2 - 5 - 6 -9 -10 - 100 -20 -14 -17 -30
 
-6-  The second pointer will be pointing at the nnth node counting from the last. We relink the next pointer of the node referenced by the second pointer to point to the node's next next node
+and n = 4 
 
+
+1- Set the two pointer on the head which is (1) 
+
+2- Move first_pointer to n node, which is 4 --- first_pointer would be on 6 , and second_pointer still on 1 
+
+the gap between them is 4 nodes, as n = 4 
+
+
+3- Keep the first_pointer moving (in a speed of 4 nodes), firs_pointer would be at node (100),
+
+and the second_pointer would be at node(6)
+
+4- Keep the first_pointer moving again(in as speed of 4 nodes), the fist_pointer this time at node (17), and the second_pointer at 
+
+node (100)
+
+5- Keep the first_pointer moving (in a speed of 4 nodes), opops the list need by one node jump, so now the first_pointer at node(30),
+
+and second_pointer has to jump the same a mount of first_pointer, so the second_pointer at node(20)
+
+
+6- Now the nth from the end list would be the position of second_pointer, which at node 20 
 """"
 
 ```
