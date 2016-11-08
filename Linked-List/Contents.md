@@ -5,7 +5,8 @@
 ### Easy Problems: 
 
   -  [Implementation of Single linked list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Implementation%20of%20Single%20linked%20list.md)
-  [Implementation of a  Double link list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Implementation%20of%20Doubly_linked_list.md)
+  
+ - [Implementation of a  Double link list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Implementation%20of%20Doubly_linked_list.md) 
   - [Insert a node in a middle of two nodes] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20in%20a%20middle%20of%20two%20nodes.md )
   
   - [Delete a node in Singly Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Delete%20a%20node%20from%20Singly%20List.md)
