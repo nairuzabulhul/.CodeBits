@@ -9,8 +9,8 @@
   - [Implementation of a  Doubly link list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Implementation%20of%20Doubly_linked_list.md)
   
   - [String representation of the list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/String%20representation%20of%20Linked%20List.md)
-  
- - [Add a node at the beginging of a Singly list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Add%20node%20at%20the%20beginning%20of%20a%20Singly%20List.md)
+
+- [Add a node at the beginging of a Singly list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Add%20node%20at%20the%20beginning%20of%20a%20Singly%20List.md)
   
   - [Add a node at the beginging of a Doubly list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Doubly_Link_List/Insert%20a%20node%20at%20the%20beginning%20of%20the%20Doubly%20list.md)
   
