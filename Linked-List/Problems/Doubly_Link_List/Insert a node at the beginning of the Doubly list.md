@@ -17,15 +17,6 @@ class DoublyLink:
     def __init__(self):
       self.head = None
 
-    #String representation of the list
-    def print_list(self, node):
- 
-        print "List: "
-        while(node is not None):
-            print " %d" %(node.data),
-            #last = node
-            node = node.next
-
     def add_node_front(self, new_data):
 
         #Step1: Create a new node
