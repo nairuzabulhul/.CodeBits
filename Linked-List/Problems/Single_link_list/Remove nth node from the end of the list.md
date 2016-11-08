@@ -38,7 +38,7 @@ class SinglyList:
 
 """"
 Strategy
-1- Set 2 pointer at the head: first_pointer and second_pointer 
+1- Set 2 pointers at the head: first_pointer and second_pointer 
 
 2- Move the first pointer n node , then move the second pointer by keep a gap of n node between the first_pointer and second_pointer
 
