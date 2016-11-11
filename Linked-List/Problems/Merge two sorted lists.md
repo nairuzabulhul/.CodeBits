@@ -25,18 +25,23 @@ Like this :
 
 2- After, creating the temp node, compare the first elements from List1 and List2 
 
- The first element of List1 is 1 
- The first element of List2 is 7 
+    The first element of List1 is 1 
+    The first element of List2 is 7 
 
-3- if List1 is smaller than List2, add List1 to the List3 and and move the pointer to the next node from List1, otherwise append from List2, and mode the poiner from List2
+3- if List1 is smaller than List2, add List1 to the List3 and and move the pointer to
+
+the next node from List1, otherwise append from List2, and mode the poiner from List2
+
 
 Let's see how this works
 
  List3 =  temp_node > 
 
-- compare 1 from List 1 with 7 from List2 . 1 is smaller than 7. Therefore, 1 is added to List3 and the pointer moves to next node  from List1, which is 5.
+- compare 1 from List 1 with 7 from List2 . 1 is smaller than 7. Therefore, 1 is added to List3 and the
+  pointer moves to next node  from List1, which is 5.
 
-- Now compare 5 from List1 with 7 from List2. 5 is less than 7. Therefore, 5 is added to List3 and pointer moved to next_node, which is 9 
+- Now compare 5 from List1 with 7 from List2. 5 is less than 7. 
+   Therefore, 5 is added to List3 and pointer moved to next_node, which is 9 
 
 - Since List1 reached the end, append the remaining of list2 to List3:
 
