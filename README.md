@@ -14,7 +14,7 @@
 - [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - Trees :
 - Backtracking:
-- Dynamic Programming:
+- Dynamic Programming
 
 #### Books in Algorithms $ General Computer Science Topics
 
@@ -38,8 +38,7 @@
    - Think Like a Programmer: An Introduction to Creative Problem Solving
    - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
    - The Linux Command Line: A Complete Introduction 
-   
-  
+      
   
 #### Interview prep courses:
 - InterviewBit
