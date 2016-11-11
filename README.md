@@ -8,16 +8,22 @@
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
 
 ###  Must Do Interview Questions:
-
 ##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and CTCI
+
+
+### Algorithms and Data Structures:
+
 - Arrays:
 - [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - Trees :
 - Backtracking:
 - Dynamic Programming
+
+### Computer Netwroking :
+
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
-#### Books in Algorithms $ General Computer Science Topics
+#### Books in Algorithms $ G&neral Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
