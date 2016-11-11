@@ -9,9 +9,7 @@
 ```
 Strategy:
 
-
 List1 =  1 > 5 > 9 
-
 List2 =   7 > 8> 10
 
 
@@ -29,7 +27,6 @@ Like this :
     The first element of List2 is 7 
 
 3- if List1 is smaller than List2, add List1 to the List3 and and move the pointer to
-
 the next node from List1, otherwise append from List2, and mode the poiner from List2
 
 
