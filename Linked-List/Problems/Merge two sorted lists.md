@@ -5,6 +5,42 @@
 
 
 
+#### Solution:
+
+```
+
+class Solution:
+    
+    def mergeTwoLists(self, list1, list2):
+
+        # Create a temp node
+        temp_node = ListNode(0)
+        pointer = temp_node
+
+        # While the list1 and lis2 true
+        while list1 and list2 :
+            #if the number in list1 smaller than list2, add number to temp_node list
+            if list1.data < list2.data:
+                pointer.next = list1
+                list1 = list1.next
+            else:
+                pointer.next = list2
+                list2 = list2.next
+            
+            # Move the pointer to next node    
+            pointer = pointer.next
+
+        # if the l1 or l2 reached the end , add the reamining number to list3  
+        if list1 == None:
+            pointer.next = list2
+        else:
+            pointer.next= list1
+
+        return temp_node.next
+
+```
+
+
 
 ```
 Strategy:
