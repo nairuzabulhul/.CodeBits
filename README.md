@@ -23,6 +23,11 @@
 
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
+### Computer Security:
+
+- 100 Top Computer Security Questions and Asnwers
+
+
 #### Books in Algorithms & G&neral Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
