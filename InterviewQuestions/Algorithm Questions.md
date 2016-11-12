@@ -1,6 +1,6 @@
 ##### Source: Career.guru99.com
 
-1) Explain what is an algorithm in computing?
+#### 1- Explain what is an algorithm in computing?
 
 An algorithm is a well-defined computational procedure that take some value as input and generate some value as output. In simple words, it’s a sequence of computational steps that converts input into the output.
 
@@ -28,7 +28,6 @@ Little Omega: It indicates “more than” <expression>iterations
 
 In binary search, we compare the key with the item in the middle position of the array.  If the key is less than the item searched then it must lie in the lower half of the array, if the key is greater than the item searched than it should be in upper half of the array.
 
-ID-100139811
 
 6) Explain whether it is possible to use binary search for linked lists?
 
