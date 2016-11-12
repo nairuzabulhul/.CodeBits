@@ -11,13 +11,17 @@
 ##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and CTCI
 
 
-### Algorithms and Data Structures:
+### Algorithms and Data Structures by topic:
 
 - Arrays:
 - [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - Trees :
 - Backtracking:
 - Dynamic Programming
+
+### Top General Alrogrithm Interview Questions:
+
+- [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
 
 ### Computer Netwroking :
 
