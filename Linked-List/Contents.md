@@ -29,7 +29,16 @@
 - [Remove Duplicates from sorted list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Remove%20Duplicates%20from%20Sorted%20Linked%20list.md)
 
 - [Merge two sorted lists] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Merge%20two%20sorted%20lists.md) 
-    
+
+- Intersection of Two Linked Lists
+
+- Remove Linked List Elements	
+
+- Reverse Linked List	
+
+- Palindrome Linked List	
+
+- Swap Nodes in Pairs
 
 
 
