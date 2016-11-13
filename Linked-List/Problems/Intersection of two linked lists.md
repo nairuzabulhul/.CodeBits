@@ -15,6 +15,7 @@ begin to intersect at node c1.
 
 ```
 
+### Solution
 ```
 # Definition for singly-linked list.
 # class ListNode(object):
@@ -27,19 +28,20 @@ class Solution(object):
     
      def getIntersectionNode(self, headA, headB):
        
+       # get the lenght of the two lists
        list_a = self.getSize(headA)
        list_b = self.getSize(headB)
        
-       
+       # if the length of the list_a smaller than list_b, flip the heads
        if list_a < list_b :
            return self.getIntersectionNode(headB, headA)
            
-       
+       # move the pointer of headA one mode step to match headB
        for n in range(list_a - list_b):
            headA = headA.next
     
        while headA and headB:
-          
+          # if headA == headB return the number
           if id(headA) == id(headB):
               return headA
         
@@ -55,8 +57,5 @@ class Solution(object):
             len +=1
             head = head.next 
         return len
-              
         
-        
-
 ```
