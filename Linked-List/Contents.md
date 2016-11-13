@@ -30,7 +30,7 @@
 
 - [Merge two sorted lists] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Merge%20two%20sorted%20lists.md) 
 
-- Intersection of Two Linked Lists
+- [Intersection of Two Linked Lists] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Intersection%20of%20two%20linked%20lists.md)
 
 - Remove Linked List Elements	
 
