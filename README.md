@@ -34,7 +34,7 @@
 - 100 Top Computer Security Questions and Asnwers
 
 
-#### Books in Algorithms & G&neral Computer Science Topics
+#### Books in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
