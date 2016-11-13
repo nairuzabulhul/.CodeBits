@@ -41,7 +41,7 @@ class Solution(object):
            headA = headA.next
     
        while headA and headB:
-          # if headA == headB return the number
+       
           if id(headA) == id(headB):
               return headA
         
