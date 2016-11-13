@@ -26,6 +26,8 @@
   
 - [Remove Nth node from the end of a linked list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Remove%20nth%20node%20from%20the%20end%20of%20the%20list.md) 
 
+- [Remove Duplicates from sorted list] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Single_link_list/Remove%20Duplicates%20from%20Sorted%20Linked%20list.md)
+
 - [Merge two sorted lists] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Problems/Merge%20two%20sorted%20lists.md) 
     
 
