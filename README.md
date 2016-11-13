@@ -8,13 +8,15 @@
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
 
 ###  Must Do Interview Questions:
-##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and CTCI
+##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and Cracking the Coding Interview
 
 
 ### Algorithms and Data Structures by topic:
 
-- Arrays:
-- [Linked List] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+- Big O Notation
+- Arrays 
+- [Linked List ] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+- [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
 - Trees :
 - Backtracking:
 - Dynamic Programming
