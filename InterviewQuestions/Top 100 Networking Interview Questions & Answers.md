@@ -143,3 +143,135 @@ One common method of doing this is to overload the system server so it cannot an
 OSI (Open Systems Interconnect) serves as a reference model for data communication. 
 It is made up of 7 layers, with each layer defining a particular aspect on how network devices connect and communicate with one another. One layer may deal with the physical media used, while another layer dictates how data is actually transmitted across the network.
 
+### 31) What is the purpose of cables being shielded and having twisted pairs?
+
+The main purpose of this is to prevent crosstalk. Crosstalks are electromagnetic interferences or noise that can affect data being transmitted across cables.
+
+### 32) What is the advantage of address sharing?
+
+By using address translation instead of routing, address sharing provides an inherent security benefit. That’s because host PCs on the Internet can only see the public IP address of the external interface on the computer that provides address translation and not the private IP addresses on the internal network.
+
+### 33) What are MAC addresses?
+
+MAC, or Media Access Control, uniquely identifies a device on the network. It is also known as physical address or Ethernet address. A MAC address is made up of 6-byte parts.
+
+### 34) What is the equivalent layer or layers of the TCP/IP Application layer in terms of OSI reference model?
+
+The TCP/IP Application layer actually has three counterparts on the OSI model: the Session layer, Presentation Layer and Application Layer.
+
+### 35) How can you identify the IP class of a given IP address?
+
+By looking at the first octet of any given IP address, you can identify whether it’s Class A, B or C. 
+If the first octet begins with a 0 bit, that address is Class A. If it begins with bits 10 then that address is a Class B address.
+If it begins with 110, then it’s a Class C network.
+
+### 36) What is the main purpose of OSPF?
+
+OSPF, or Open Shortest Path First, is a link-state routing protocol that uses routing tables to determine the best possible path for data exchange.
+
+### 37) What are firewalls?
+
+Firewalls serve to protect an internal network from external attacks. These external threats can be hackers who want to steal data or computer viruses that can wipe out data in an instant. It also prevents other users from external networks from gaining access to the private network.
+
+### 38) Describe star topology
+
+Star topology consists of a central hub that connects to nodes. This is one of the easiest to setup and maintain.
+
+### 39) What are gateways?
+
+Gateways provide connectivity between two or more network segments. It is usually a computer that runs the gateway
+software and provides translation services. This translation is a key in allowing different systems to communicate on the network.
+
+### 40) What is the disadvantage of a star topology?
+
+One major disadvantage of star topology is that once the central hub or switch get damaged, the entire network becomes unusable.
+
+### 41) What is SLIP?
+
+SLIP, or Serial Line Interface Protocol, is actually an old protocol developed during the early UNIX days. This is one of the protocols that are used for remote access.
+
+### 42) Give some examples of private network addresses.
+
+10.0.0.0 with a subnet mask of 255.0.0.0
+172.16.0.0 with subnet mask of 255.240.0.0
+192.168.0.0 with subnet mask of 255.255.0.0
+
+### 43) What is tracert?
+
+Tracert is a Windows utility program that can used to trace the route taken by data from the router to the destination network. It also shows the number of hops taken during the entire transmission route.
+
+### 44) What are the functions of a network administrator?
+
+A network administrator has many responsibilities that can be summarize into 3 key functions: installation of a network, configuration of network settings, and maintenance/troubleshooting of networks.
+
+### 45) Describe at one disadvantage of a peer to peer network.
+
+When you are accessing the resources that are shared by one of the workstations on the network, that workstation takes a performance hit.
+
+### 46) What is Hybrid Network?
+
+A hybrid network is a network setup that makes use of both client-server and peer-to-peer architecture.
+
+### 47) What is DHCP?
+
+DHCP is short for Dynamic Host Configuration Protocol. Its main task is to automatically assign an IP address to devices across the network. It first checks for the next available address not yet taken by any device, then assigns this to a network device.
+
+### 48) What is the main job of the ARP?
+
+The main task of ARP or Address Resolution Protocol is to map a known IP address to a MAC layer address.
+
+### 49) What is TCP/IP?
+
+TCP/IP is short for Transmission Control Protocol / Internet Protocol. This is a set of protocol layers that is designed to make data exchange possible on different types of computer networks, also known as heterogeneous network.
+
+### 50) How can you manage a network using a router?
+
+Routers have built in console that lets you configure different settings, like security and data logging. You can assign restrictions
+to computers, such as what resources it is allowed access, or what particular time of the day they can browse the internet. You can even put restrictions on what websites are not viewable across the entire network.
+
+### 51) What protocol can be applied when you want to transfer files between different platforms, such between UNIX systems and Windows servers?
+
+Use FTP (File Transfer Protocol) for file transfers between such different servers. This is possible because FTP is platform independent.
+
+### 52) What is the use of a default gateway?
+
+Default gateways provide means for the local networks to connect to the external network. The default gateway for connecting to the external network is usually the address of the external router port.
+
+### 53) One way of securing a network is through the use of passwords. What can be considered as good passwords?
+
+Good passwords are made up of not just letters, but by combining letters and numbers. A password that combines uppercase and lowercase letters is favorable than one that uses all upper case or all lower case letters. Passwords must be not words that can easily be guessed by hackers, such as dates, names, favorites, etc. Longer passwords are also better than short ones.
+
+### 54) What is the proper termination rate for UTP cables?
+
+The proper termination for unshielded twisted pair network cable is 100 ohms.
+
+### 55) What is netstat?
+
+Netstat is a command line utility program. It provides useful information about the current TCP/IP settings of a connection.
+
+### 56) What is the number of network IDs in a Class C network?
+
+For a Class C network, the number of usable Network ID bits is 21. The number of possible network IDs is 2 raised to 21 or 2,097,152. The number of host IDs per network ID is 2 raised to 8 minus 2, or 254.
+
+### 57) What happens when you use cables longer than the prescribed length?
+
+Cables that are too long would result in signal loss. This means that data transmission and reception would be affected, because the signal degrades over length.
+
+### 58) What common software problems can lead to network defects?
+
+Software related problems can be any or a combination of the following:
+– client server problems
+– application conflicts
+– error in configuration
+– protocol mismatch
+– security issues
+– user policy and rights issues
+
+### 59) What is ICMP?
+
+ICMP is Internet Control Message Protocol. It provides messaging and communication for protocols within the TCP/IP stack. This is also the protocol that manages error messages that are used by network tools such as PING.
+
+### 60) What is Ping?
+
+Ping is a utility program that allows you to check connectivity between network devices on the network. You can ping a device by using its IP address or device name, such as a computer name.
+
