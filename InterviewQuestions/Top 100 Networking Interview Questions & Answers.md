@@ -40,8 +40,10 @@ in these servers do not need to identify themselves, but instead log in as an an
 
 ### 9) What is subnet mask?
 
-A subnet mask is combined with an IP address in order to identify two parts: the extended network address and the host address. 
+A subnet mask is a combined with an IP address in order to identify two parts: the extended network address and the host address. 
 Like an IP address, a subnet mask is made up of 32 bits.
+
+Subnet mask is a mask used to determine what subnet an IP address belongs to.
 
 ### 10) What is the maximum length allowed for a UTP cable?
 
