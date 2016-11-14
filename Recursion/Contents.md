@@ -6,7 +6,8 @@
 
 ### Easy Problems:
 
-  - Recursion: Fibonacci Numbers
+  - Fibonacci Numbers
+  - (N!) Factorials 
 
 
 ### Medium Problems 
