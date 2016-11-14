@@ -7,7 +7,7 @@
 ### Easy Problems:
 
   - Fibonacci Numbers
-  - (N!) Factorials 
+  - [(N!) Factorials] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Recursion/Factorials.md) 
 
 
 ### Medium Problems 
