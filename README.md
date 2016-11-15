@@ -7,11 +7,10 @@
 
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
 
-###  Must Do Interview Questions:
+###  Must Do Interview Questions (Algorithms & Data Structures):
 ##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and Cracking the Coding Interview
 
-
-### Algorithms and Data Structures by topic:
+#### Algorithms and Data Structures by topic:
 
 - Big O Notation
 - Arrays 
@@ -21,15 +20,15 @@
 - Backtracking:
 - Dynamic Programming
 
-### Top General Alrogrithm Interview Questions:
+#### Top General Alrogrithm Interview Questions:
 
 - [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
 
-### Computer Networking :
+#### Computer Networking :
 
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
-### Computer Security:
+#### Computer Security:
 
 - 100 Top Computer Security Questions and Asnwers
 
@@ -43,7 +42,7 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
                     
-   - Cracking the Code Interview
+   - [Cracking the Code Interview] (https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
    
    - Programming Interviews Exposed
    
