@@ -10,7 +10,7 @@
 ###  Must Do Interview Questions (Algorithms & Data Structures):
 ##### Note: Every topic links to a list of questions range from easy to medium taken from LeetCode, HackerRank and Cracking the Coding Interview
 
-#### Algorithms and Data Structures by topic:
+### Algorithms and Data Structures by topic:
 
 - Big O Notation
 - Arrays 
@@ -20,7 +20,7 @@
 - Backtracking:
 - Dynamic Programming
 
-#### Books in Algorithms & General Computer Science Topics
+### Books in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -57,19 +57,19 @@
    - The Linux Command Line: A Complete Introduction 
    
 
-#### Top General Alrogrithm Interview Questions:
+### General Alrogrithm Interview Questions:
 
 - [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
 
-#### Computer Networking :
+### Computer Networking :
 
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
-#### Computer Security:
+### Computer Security:
 
 - 100 Top Computer Security Questions and Asnwers
   
-#### Interview prep courses:
+### Interview prep courses:
 - InterviewBit
 - Interview Cake
 - LeetCode         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -87,6 +87,8 @@
 
 - [The Technical Interview Cheat Sheet] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
+
+### Online Courses:
 
 #### Python :
 
