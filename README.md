@@ -20,19 +20,6 @@
 - Backtracking:
 - Dynamic Programming
 
-#### Top General Alrogrithm Interview Questions:
-
-- [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
-
-#### Computer Networking :
-
-- [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
-
-#### Computer Security:
-
-- 100 Top Computer Security Questions and Asnwers
-
-
 #### Books in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
@@ -68,7 +55,19 @@
    - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
    
    - The Linux Command Line: A Complete Introduction 
-      
+   
+
+#### Top General Alrogrithm Interview Questions:
+
+- [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
+
+#### Computer Networking :
+
+- [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
+
+#### Computer Security:
+
+- 100 Top Computer Security Questions and Asnwers
   
 #### Interview prep courses:
 - InterviewBit
@@ -80,6 +79,13 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 - HackerRank
 
+
+#### Great Advice :
+#### This section for articles that provided me great advice in how to prepare well for interviews.
+
+- [How to Crack The Coding Interview With Practicing Only 30 Questions] (http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
+
+- [The Technical Interview Cheat Sheet] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
 
 #### Python :
