@@ -25,7 +25,7 @@
 
 - [Top 15 Algorithms Questions] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
 
-### Computer Netwroking :
+### Computer Networking :
 
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
