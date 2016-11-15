@@ -43,24 +43,31 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
                     
-   - Cracking the Code Interview: 
-   - Programming Interviews Exposed: 
+   - Cracking the Code Interview
+   
+   - Programming Interviews Exposed
+   
    - [Python for Data Structure, Algorithms and Interviews] (https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                            
                                                              
    - [Google Interview University] (https://github.com/jwasham/google-interview-university)
                                                                <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                              
    -  Volient Python 
+   
    -  Black Python 
+   
    - Think Like a Programmer: An Introduction to Creative Problem Solving
+   
    - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+   
    - The Linux Command Line: A Complete Introduction 
       
   
