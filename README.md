@@ -228,4 +228,13 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                              
+- [The Ultimate List Of Developer Podcasts] (https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                         
+                                             
+                                                             
                                                    
