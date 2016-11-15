@@ -80,7 +80,7 @@
 - HackerRank
 
 
-#### Great Advice :
+### Great Advice from Articles :
 #### This section for articles that provided me great advice in how to prepare well for interviews.
 
 - [How to Crack The Coding Interview With Practicing Only 30 Questions] (http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
