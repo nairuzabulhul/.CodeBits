@@ -13,7 +13,7 @@
 ### Algorithms and Data Structures by topic:
 
 - Big O Notation
-- Arrays 
+- [Arrays] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Arrays/Contents.md) 
 - [Linked List ] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
 - Trees :
