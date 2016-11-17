@@ -1,5 +1,7 @@
 ### 1.2 Check Permutations
 
+##### Time Complexity: O(n)
+
 ```
 import collections
 
@@ -20,7 +22,7 @@ print same_permutation("cba","abc")
 
 True
 
-print same_permutation("cba","abc")
+print same_permutation("cbaa","abc")
 
 False
 
