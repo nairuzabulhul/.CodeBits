@@ -40,5 +40,7 @@
 
 - Swap Nodes in Pairs
 
+- [Remove Duplicates from unsorted Linked list] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Linked-List/Problems/Remove%20Duplicates%20from%20unsorted%20list.md)
+
 
 
