@@ -3,7 +3,8 @@
 ```
 Strategy :
 
-There are two solutions for this problems . First solution is without adding temporary buffer or list. It is done by 2 loops.
+There are two solutions for this problems . 
+First solution is without adding temporary buffer or list.It is done by 2 loops.
 Second solution is using hash tables
 
 METHOD 1 (Using two loops)
