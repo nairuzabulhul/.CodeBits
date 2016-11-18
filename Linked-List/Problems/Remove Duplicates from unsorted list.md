@@ -23,7 +23,10 @@ source:GeeksforGeeks
 ```
 
 
-### Solution 1:
+### Solution 1: Using 2 loops
+
+### Time Complexity is O(n^2)
+### Space Complexity is O(1)
 
 ```
 class Node:
@@ -61,4 +64,47 @@ class Solution :
         return head
 
         
+```
+
+### Solution2 : Hash Table
+
+#### Time Complexity is O(n)
+#### Space Complexity is O(n)
+
+```
+class Node:
+
+    def __init__(self,data):
+        self.data = data
+        self.next = None
+
+
+
+class Solution :
+
+    def __ini__(self):
+        self.head = None
+
+
+    def remove_duplicates(self,head):
+
+        # special case
+        if head is None:
+            return None
+
+        current = head
+
+        hash = {}
+
+        hash[head.data] = True
+
+        while current.next != None:
+            if hash.has_key(current..next.data):
+                # remove the node 
+                current.next = current.next.next
+            else:
+                hash[current.next.data]= True
+                current = current.next
+                
+        return head
 ```
