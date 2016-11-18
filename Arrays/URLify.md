@@ -1,6 +1,4 @@
-1.3 Write a method to replace all the space with %20
-
-##### Time Complexity : O(n)
+## Write a method to replace all the space with %20
 
 ```
 def urlify(str):
@@ -23,6 +21,8 @@ my_strin ="  My Name is    "
 
 print urlify(my_strin)
 
+
+Time Complexity : O(n)
 ```
 
 ```
