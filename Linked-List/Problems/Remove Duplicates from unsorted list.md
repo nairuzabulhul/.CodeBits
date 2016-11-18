@@ -3,21 +3,26 @@
 ```
 Strategy :
 
-There are two solutions for this problems . 
-First solution is without adding temporary buffer or list.It is done by 2 loops.
-Second solution is using hash tables
+There are two solutions for this problems:
 
-METHOD 1 (Using two loops)
+- Fist Solution is without using a temporary buffer or additional data structure. (Using 2 loops)
+- Second Solution is using Hash tables
 
-- This is the simple way where two loops are used.
+Using two loops:
+
+This is the simple way where two loops are used:
+
 - Outer loop is used to pick the elements one by one.
 - Inner loop compares the picked element with rest of the elements.
 
 
-METHOD 3 (Use Hashing)
+Use Hashing: 
+
 We traverse the link list from head to end. 
+
 For every newly encountered element, we check whether it is in the hash table: 
 if yes, we remove it; otherwise we put it in the hash table.
+
 
 source:GeeksforGeeks
 ```
