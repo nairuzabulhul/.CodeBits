@@ -42,5 +42,7 @@
 
 - [Remove Duplicates from unsorted Linked list] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Linked-List/Problems/Remove%20Duplicates%20from%20unsorted%20list.md)
 
+- [Find nth node from the last] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Linked-List/Problems/Single_link_list/Find%20nth%20node%20from%20the%20last%20in%20a%20singly%20linked%20list.md)
+
 
 
