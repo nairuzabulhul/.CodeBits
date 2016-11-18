@@ -28,10 +28,7 @@ source:GeeksforGeeks
 ```
 
 
-##### Solution 1: Using 2 loops
-
-##### Time Complexity is O(n^2)
-##### Space Complexity is O(1)
+### Solution 1: Using 2 loops
 
 ```
 class Node:
@@ -68,13 +65,12 @@ class Solution :
 
         return head
 
-        
+
+Time Complexity is O(n^2)
+Space Complexity is O(1)        
 ```
 
-##### Solution2 : Hash Table
-
-##### Time Complexity is O(n)
-##### Space Complexity is O(n)
+### Solution2 : Hash Table
 
 ```
 class Node:
@@ -112,4 +108,7 @@ class Solution :
                 current = current.next
                 
         return head
+        
+Time Complexity is O(n)
+Space Complexity is O(n)        
 ```
