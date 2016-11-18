@@ -1,4 +1,4 @@
-#### Write a program to remove duplicates from unsorted linked list 
+## Write a program to remove duplicates from unsorted linked list 
 
 ```
 Strategy :
@@ -23,10 +23,10 @@ source:GeeksforGeeks
 ```
 
 
-### Solution 1: Using 2 loops
+##### Solution 1: Using 2 loops
 
-### Time Complexity is O(n^2)
-### Space Complexity is O(1)
+##### Time Complexity is O(n^2)
+##### Space Complexity is O(1)
 
 ```
 class Node:
@@ -66,10 +66,10 @@ class Solution :
         
 ```
 
-### Solution2 : Hash Table
+##### Solution2 : Hash Table
 
-#### Time Complexity is O(n)
-#### Space Complexity is O(n)
+##### Time Complexity is O(n)
+##### Space Complexity is O(n)
 
 ```
 class Node:
