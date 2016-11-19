@@ -15,6 +15,7 @@
 - Big O Notation
 - [Arrays] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Arrays/Contents.md) 
 - [Linked List ] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+- Stacks and Queues 
 - [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
 - Trees :
 - Backtracking:
