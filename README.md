@@ -101,6 +101,8 @@
 
 - [7 Steps to Solve Algorithm Problems] (https://www.youtube.com/watch?v=GKgAVjJxh9w)
 
+- [How can I prepare for a tough coding interview in one week?] (https://www.quora.com/How-can-I-prepare-for-a-tough-coding-interview-in-one-week)
+
 ### Online Courses:
 
 #### Python :
