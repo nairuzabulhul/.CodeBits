@@ -67,6 +67,16 @@
 
 - [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
 
+- [I've been struggling with Cracking the Coding problems. How do I get better at these problems?] (https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
+
+- [How to Work at Google: Example Coding/Engineering Interview] (https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
+
+- [Applying to Google: How to Ace the Engineering and Technical Interview] (https://www.youtube.com/watch?v=55aEVvITNJ0)
+
+- [Cracking the Coding Interview - Fullstack Speaker Series] (https://www.youtube.com/watch?v=Eg5-tdAwclo)
+
+- [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)] (https://www.youtube.com/watch?v=1fqxMuPmGak)
+
 ### Computer Security:
 
 - 100 Top Computer Security Questions and Asnwers
