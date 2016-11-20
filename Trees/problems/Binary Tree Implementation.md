@@ -1,4 +1,4 @@
-### Implementation of a Binary Tree
+### Binary Tree Implementation 
 
 ```
 """
