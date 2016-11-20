@@ -99,6 +99,7 @@
 
 - [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)] (https://www.youtube.com/watch?v=1fqxMuPmGak)
 
+- [7 Steps to Solve Algorithm Problems] (https://www.youtube.com/watch?v=GKgAVjJxh9w)
 
 ### Online Courses:
 
