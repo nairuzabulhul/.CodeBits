@@ -18,6 +18,8 @@
    
    - [Binary Tree Preorder Traversal] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Trees/problems/Binary%20Tree%20Preorder%20Traversal.md)
    
+   - [Binary Tree Inorder Traversal] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Binary%20Inorder%20Traversal.md)
+   
    - [Sum of Left Leaves]
 (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Trees/problems/Sum%20of%20Left%20Leaves.md)
 
