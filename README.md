@@ -12,7 +12,7 @@
 
 ### Algorithms and Data Structures by topic:
 
-- Big O Notation
+- [Big O Notation] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Big-O-Notation/Contents.md)
 - [Arrays] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Arrays/Contents.md) 
 - [Linked List ] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
 - [Stacks and Queues] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Stacks-and-Queues/Contents.md) 
