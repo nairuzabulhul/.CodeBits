@@ -3,7 +3,7 @@
 #### Notes:
 
 - Introduction to Trees
-- [ Implementation of Binary Tree ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Implement%20Binary%20Tree.md)
+- [Binary Tree Implementation ](https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Binary%20Tree%20Implementation.md)
 
 
 
