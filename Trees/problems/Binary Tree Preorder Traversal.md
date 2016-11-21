@@ -6,6 +6,7 @@
 
 ####Source:LeetCode
 
+<img src="https://s21.postimg.org/59amwtk53/order.png" width="350px"></img>
 
 ####Solution
 
