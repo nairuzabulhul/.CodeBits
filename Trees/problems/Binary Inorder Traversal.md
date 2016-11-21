@@ -1,6 +1,6 @@
 ### Binary Inorder Traversal 
 
-<img src="https://s21.postimg.org/59amwtk53/order.png" width="50px"></img>
+<img src="https://s21.postimg.org/59amwtk53/order.png" width="350px"></img>
 ```
 """
 Binary Tree is a trea which each node has ONLY two children at most.
