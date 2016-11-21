@@ -82,5 +82,4 @@ for i in arr:
 print 'Inorder Traversal'
 tree.inorder(tree.root)
 
-
 ```
