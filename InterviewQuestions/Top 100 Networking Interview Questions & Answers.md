@@ -275,3 +275,90 @@ ICMP is Internet Control Message Protocol. It provides messaging and communicati
 
 Ping is a utility program that allows you to check connectivity between network devices on the network. You can ping a device by using its IP address or device name, such as a computer name.
 
+
+### 61) What is peer to peer?
+
+Peer to peer are networks that does not reply on a server. All PCs on this network act as individual workstations.
+
+### 62) What is DNS?
+
+DNS is Domain Name System. The main function of this network service is to provide host names to TCP/IP address resolution.
+
+### 63) What advantages does fiber optics have over other media?
+
+One major advantage of fiber optics is that is it less susceptible to electrical interference. It also supports higher bandwidth, meaning more data can be transmitted and received. Signal degrading is also very minimal over long distances.
+
+### 64) What is the difference between a hub and a switch?
+
+A hub acts as a multiport repeater. However, as more and more devices connect to it, it would not be able to efficiently manage the volume of traffic that passes through it. A switch provides a better alternative that can improve the performance especially when high traffic volume is expected across all ports.
+
+### 65) What are the different network protocols that are supported by Windows RRAS services?
+
+There are three main network protocols supported: NetBEUI, TCP/IP, and IPX.
+
+### 66) What are the maximum networks and hosts in a class A, B and C network?
+
+For Class A, there are 126 possible networks and 16,777,214 hosts
+For Class B, there are 16,384 possible networks and 65,534 hosts
+For Class C, there are 2,097,152 possible networks and 254 hosts
+
+### 67) What is the standard color sequence of a straight-through cable?
+
+orange/white, orange, green/white, blue, blue/white, green, brown/white, brown.
+
+### 68) What protocols fall under the Application layer of the TCP/IP stack?
+
+The following are the protocols under TCP/IP Application layer: FTP, TFTP, Telnet and SMTP.
+
+### 69) You need to connect two computers for file sharing. Is it possible to do this without using a hub or router?
+
+Yes, you can connect two computers together using only one cable. A crossover type cable can be use in this scenario.
+In this setup, the data transmit pin of one cable is connected to the data receive pin of the other cable, and vice versa.
+
+### 70) What is ipconfig?
+
+Ipconfig is a utility program that is commonly used to identify the addresses information of a computer on a network. It can show the physical address as well as the IP address.
+
+### 71) What is the difference between a straight-through and crossover cable?
+
+A straight-through cable is used to connect computers to a switch, hub or router. A crossover cable is used to connect two similar devices together, such as a PC to PC or Hub to hub.
+
+### 72) What is client/server?
+
+Client/server is a type of network wherein one or more computers act as servers. Servers provide a centralized repository of resources such as printers and files. Clients refers to workstation that access the server.
+
+### 73) Describe networking.
+
+Networking refers to the inter connection between computers and peripherals for data communication. Networking can be done using wired cabling or through wireless link.
+
+### 74) When you move the NIC cards from one PC to another PC, does the MAC address gets transferred as well?
+
+Yes, that’s because MAC addresses are hard-wired into the NIC circuitry, not the PC. This also means that a PC can have a different MAC address when the NIC card was replace by another one.
+
+### 75) Explain clustering support
+
+Clustering support refers to the ability of a network operating system to connect multiple servers in a fault-tolerant group. The main purpose of this is the in the event that one server fails, all processing will continue on with the next server in the cluster.
+
+### 76) In a network that contains two servers and twenty workstations, where is the best place to install an Anti-virus program?
+
+An anti-virus program must be installed on all servers and workstations to ensure protection. That’s because individual users can access any workstation and introduce a computer virus when plugging in their removable hard drives or flash drives.
+
+### 77) Describe Ethernet.
+
+Ethernet is one of the popular networking technologies used these days. It was developed during the early 1970s and is based on specifications as stated in the IEEE. Ethernet is used in local area networks.
+
+### 78) What are some drawbacks of implementing a ring topology?
+
+In case one workstation on the network suffers a malfunction, it can bring down the entire network. Another drawback is that when there are adjustments and reconfigurations needed to be performed on a particular part of the network, the entire network has to be temporarily brought down as well.
+
+### 79) What is the difference between CSMA/CD and CSMA/CA?
+
+CSMA/CD, or Collision Detect, retransmits data frames whenever a collision occurred. CSMA/CA, or Collision Avoidance, will first broadcast intent to send prior to data transmission.
+
+### 80) What is SMTP?
+
+SMTP is short for Simple Mail Transfer Protocol. This protocol deals with all Internal mail, and provides the necessary mail delivery services on the TCP/IP protocol stack.
+
+### 81) What is multicast routing?
+
+Multicast routing is a targeted form of broadcasting that sends message to a selected group of user, instead of sending it to all users on a subnet.
