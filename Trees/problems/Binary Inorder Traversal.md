@@ -65,9 +65,9 @@ class Tree:
         left --- root --- right
         """
         if node is not None:
-            self.inorder(node.left)
+            self.inorder_traversal(node.left)
             print node.data
-            self.inorder(node.right)
+            self.inorder_traversal(node.right)
         
 
 ```
