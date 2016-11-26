@@ -25,5 +25,7 @@
    
 - [Sum of Left Leaves] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Trees/problems/Sum%20of%20Left%20Leaves.md)
 
+- [Minimum Height](https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Minimum%20Height%20Tree.md)
+
   
   
