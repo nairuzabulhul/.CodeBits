@@ -27,5 +27,7 @@
 
 - [Minimum Height](https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Minimum%20Height%20Tree.md)
 
+- [List of depths] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/list_of_depths.md)
+
   
   
