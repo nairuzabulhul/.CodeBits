@@ -362,3 +362,80 @@ SMTP is short for Simple Mail Transfer Protocol. This protocol deals with all In
 ### 81) What is multicast routing?
 
 Multicast routing is a targeted form of broadcasting that sends message to a selected group of user, instead of sending it to all users on a subnet.
+
+
+### 82) What is the importance of Encryption on a network?
+
+Encryption is the process of translating information into a code that is unreadable by the user. It is then translated back or decrypted back to its normal readable format using a secret key or password. Encryption help ensure that information that is intercepted halfway would remain unreadable because the user has to have the correct password or key for it.
+
+### 83) How are IP addresses arranged and displayed?
+
+IP addresses are displayed as a series of four decimal numbers that are separated by period or dots. Another term for this arrangement is the dotted decimal format. An example is 192.168.101.2
+
+### 84) Explain the importance of authentication.
+
+Authentication is the process of verifying a user’s credentials before he can log into the network. It is normally performed using a username and password. This provides a secure means of limiting the access from unwanted intruders on the network.
+
+### 85) What do mean by tunnel mode?
+
+This is a mode of data exchange wherein two communicating computers do not use IPSec themselves. Instead, the gateway that is connecting their LANs to the transit network creates a virtual tunnel that uses the IPSec protocol to secure all communication that passes through it.
+
+### 86) What are the different technologies involved in establishing WAN links?
+
+Analog connections – using conventional telephone lines; Digital connections – using digital-grade telephone lines; switched connections – using multiple sets of links between sender and receiver to move data.
+
+### 87) What is one advantage of mesh topology?
+
+In the event that one link fails, there will always be another available. Mesh topology is actually one of the most fault-tolerant network topology.
+
+### 88) When troubleshooting computer network problems, what common hardware-related problems can occur?
+
+A large percentage of a network is made up of hardware. Problems in these areas can range from malfunctioning hard drives, broken NICs and even hardware startups. Incorrectly hardware configuration is also one of those culprits to look into.
+
+### 89) What can be done to fix signal attenuation problems?
+
+A common way of dealing with such a problem is to use repeaters and hub, because it will help regenerate the signal and therefore prevent signal loss. Checking if cables are properly terminated is also a must.
+
+### 90) How does dynamic host configuration protocol aid in network administration?
+
+Instead of having to visit each client computer to configure a static IP address, the network administrator can apply dynamic host configuration protocol to create a pool of IP addresses known as scopes that can be dynamically assigned to clients.
+
+### 91) Explain profile in terms of networking concept?
+
+Profiles are the configuration settings made for each user. A profile may be created that puts a user in a group, for example.
+
+### 92) What is sneakernet?
+
+Sneakernet is believed to be the earliest form of networking wherein data is physically transported using removable media, such as disk, tapes.
+
+### 93) What is the role of IEEE in computer networking?
+
+IEEE, or the Institute of Electrical and Electronics Engineers, is an organization composed of engineers that issues and manages standards for electrical and electronic devices. This includes networking devices, network interfaces, cablings and connectors.
+
+### 94) What protocols fall under the TCP/IP Internet Layer?
+
+There are 4 protocols that are being managed by this layer. These are ICMP, IGMP, IP and ARP.
+
+### 95) When it comes to networking, what are rights?
+
+Rights refer to the authorized permission to perform specific actions on the network. Each user on the network can be assigned individual rights, depending on what must be allowed for that user.
+
+### 96) What is one basic requirement for establishing VLANs?
+
+A VLAN is required because at switch level there is only one broadcast domain, it means whenever new user is connected to switch this information is spread throughout the network. VLAN on switch helps to create separate broadcast domain at  switch level. It is used for security purpose.
+
+### 97) What is IPv6?
+
+IPv6 , or Internet Protocol version 6, was developed to replace IPv4. At present, IPv4 is being used to control internet traffic, butis expected to get saturated in the near future. IPv6 was designed to overcome this limitation.
+
+### 98) What is RSA algorithm?
+
+RSA is short for Rivest-Shamir-Adleman algorithm. It is the most commonly used public key encryption algorithm in use today.
+
+### 99) What is mesh topology?
+
+Mesh topology is a setup wherein each device is connected directly to every other device on the network. Consequently, it requires that each device have at least two network connections.
+
+### 100) what is the maximum segment length of a 100Base-FX network?
+
+The maximum allowable length for a network segment using 100Base-FX is 412 meters. The maximum length for the entire network is 5 kilometers.
