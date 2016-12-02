@@ -87,6 +87,12 @@
 
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
 
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+
 - [END TO END GUIDE ON LANDING A JOB IN TECH INDUSTRY] (http://www.mohsinali.net/guide.html)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -100,6 +106,11 @@
 
 - [I've been struggling with Cracking the Coding problems. How do I get better at these problems?] (https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
 
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
 - [How to Work at Google: Example Coding/Engineering Interview] (https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
 
 - [Applying to Google: How to Ace the Engineering and Technical Interview] (https://www.youtube.com/watch?v=55aEVvITNJ0)
