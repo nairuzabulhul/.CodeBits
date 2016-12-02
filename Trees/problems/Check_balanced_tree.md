@@ -1,5 +1,21 @@
 ### Write a program to check if a tree is balanced or not
 
+
+```
+Strategy :
+
+1-Traverse the left side of the tree recursively 
+
+2- Traverse the right side of the tree recursivly 
+
+3- Check the height of both tree
+
+4- If they are not equal, return False
+
+5- else, check if they are equal or one height is great than the other by 1, which in that case return True
+```
+
+### Solution
 ```
 # Definition for a binary tree node.
 # class TreeNode(object):
