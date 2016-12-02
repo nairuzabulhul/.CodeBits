@@ -108,7 +108,7 @@
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
 - [How to Work at Google: Example Coding/Engineering Interview] (https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
 
 - [Applying to Google: How to Ace the Engineering and Technical Interview] (https://www.youtube.com/watch?v=55aEVvITNJ0)
