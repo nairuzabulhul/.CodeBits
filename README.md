@@ -85,6 +85,10 @@
 ### Great Advice from Articles :
 #### This section for articles that provided me great advice in how to prepare well for interviews.
 
+- [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
+
+- [END TO END GUIDE ON LANDING A JOB IN TECH INDUSTRY] (http://www.mohsinali.net/guide.html)
+
 - [How to Crack The Coding Interview With Practicing Only 30 Questions] (http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
 
 - [The Technical Interview Cheat Sheet] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
