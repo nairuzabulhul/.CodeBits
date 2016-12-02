@@ -86,7 +86,6 @@
 #### This section for articles that provided me great advice in how to prepare well for interviews.
 
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
-
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -105,7 +104,6 @@
 - [The Technical Interview Cheat Sheet] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
 - [I've been struggling with Cracking the Coding problems. How do I get better at these problems?] (https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
-
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
