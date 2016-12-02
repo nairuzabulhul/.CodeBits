@@ -29,5 +29,6 @@
 
 - [List of depths] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/list_of_depths.md)
 
+- [Check Balanced Tree] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Check_balanced_tree.md)
   
   
