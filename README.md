@@ -5,6 +5,9 @@
 
 
 
+### I was inspired by [@googleasheck] (https://twitter.com/googleyasheck) - [Google Interview Univeristy] (https://github.com/jwasham/google-interview-university) to create my own list of resouces 
+
+
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
 
 ###  Must Do Interview Questions (Algorithms & Data Structures):
