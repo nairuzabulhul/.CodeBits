@@ -105,6 +105,11 @@
 - [How to Crack The Coding Interview With Practicing Only 30 Questions] (http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
 
 - [The Technical Interview Cheat Sheet] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
 
 - [I've been struggling with Cracking the Coding problems. How do I get better at these problems?] (https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
