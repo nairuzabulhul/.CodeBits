@@ -30,5 +30,7 @@
 - [List of depths] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/list_of_depths.md)
 
 - [Check Balanced Tree] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Check_balanced_tree.md)
+
+- [Check Binary Search Tree] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Check%20Binary%20Search%20Tree.md)
   
   
