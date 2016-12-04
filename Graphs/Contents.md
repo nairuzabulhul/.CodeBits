@@ -21,3 +21,7 @@
 
 ### Easy Problems
 
+- Depth Search First -- (MUST KNOW)
+
+- Breadth Search First -- (MUST KNOW)
+
