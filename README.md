@@ -247,7 +247,7 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              
+                                                            
 - [Eli the Computer Guy] (https://www.youtube.com/user/elithecomputerguy)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -276,7 +276,10 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                
-                                                              
+- [HackerRank -- Algorithms and Date Structures by Gayle Laakmann McDowell ] (https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  
 #### Extra Resources
 
 - [TalkPython] (https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
