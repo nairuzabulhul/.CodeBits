@@ -6,8 +6,8 @@
 
 ### NOTES:
 
-  - if you are unfamiliar with graphs go through these sources first, then start solving problem.
-  - Start with Easy problem then add the level of difficulty with time
+  - If you are unfamiliar with graphs go through these sources first, then start solving problems.
+  - Start with Easy problem, then add the level of difficulty as you go on.
 
 1- [Search Graphs -- HackerRank] (https://www.youtube.com/watch?v=zaBhtODEL0w) 
 
