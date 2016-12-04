@@ -15,6 +15,8 @@
 
 3-  Cracking the Coding interview -- Graph Section (Chapter 4)
 
+4- [Graph Theory: 07 Adjacency Matrix and Incidence Matrix](https://www.youtube.com/watch?v=LUDNz2bIjWI)
+
 
 
 ### Easy Problems
