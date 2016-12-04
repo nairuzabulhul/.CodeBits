@@ -61,6 +61,8 @@
    
    - The Linux Command Line: A Complete Introduction 
    
+   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html)
+   
 
 ### General Alrogrithm Interview Questions:
 
