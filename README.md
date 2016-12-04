@@ -280,6 +280,7 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  
+                                                             
 #### Extra Resources
 
 - [TalkPython] (https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
