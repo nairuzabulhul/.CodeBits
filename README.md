@@ -22,6 +22,7 @@
 - [Hash Tables] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Hash-Tables/Contents.md)
 - [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
 - [ Trees ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/Contents.md)
+- [Graphs] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Graphs/Contents.md)
 - Backtracking:
 - Dynamic Programming
 
