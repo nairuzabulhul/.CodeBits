@@ -64,7 +64,7 @@
    
    - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html)
    
-   - [he Technical Interview Cheat Sheet.md] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+   - [The Technical Interview Cheat Sheet by TSiege] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
    
    - [LeetCode Solutions in Python, Java and C++ ] (https://github.com/kamyu104/LeetCode)
    
