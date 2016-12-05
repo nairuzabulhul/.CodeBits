@@ -32,5 +32,7 @@
 - [Check Balanced Tree] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Check_balanced_tree.md)
 
 - [Check Binary Search Tree] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/Check%20Binary%20Search%20Tree.md)
+
+- [Inorder Successor ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/problems/In-order%20Successor.md)
   
   
