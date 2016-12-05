@@ -48,5 +48,43 @@ Step2:
 
 ### Solution
 ```
+class Tree:
+    def __init__(self, data):
+        self.data = data
+        self.right = None
+        self.left = None
 
+
+
+
+def in_order_successor(node):
+
+    # if a node has right subtree
+    if node.right is not None:
+        return left_most_node(node.right)
+
+    # if a node deos not have subtree, traverse back to the parent
+    temp_parent = node.parent
+
+    while temp_parent is not None:
+        if node != temp_parent.right :
+            break
+
+        node = temp_parent
+        temp_parent = temp_parent.right
+
+    return temp_parent
+
+def left_most_node(node):
+
+    current = node
+
+    # if the left node does not exist, break, otherwise, return the leftmostnode
+    while current is not None:
+        if current.left is None:
+            break
+
+        current = current.data
+
+    return current
 ```
