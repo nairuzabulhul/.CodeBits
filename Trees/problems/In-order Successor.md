@@ -17,8 +17,10 @@
 
 Strategy:
 
-Step1:
-    
+
+Step1: Start from the root
+
+Step2:
     Pick a node :
     - if a node has a right subtree, look for the leftmost node that would become the successor of the picked node
     
