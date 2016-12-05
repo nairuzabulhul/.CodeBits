@@ -38,7 +38,8 @@ Step1:
        Therefore, node 15 is the successor of node 12
        
      * if we pick node 8, node 8 has NO to right subtree, so we traverse back to node 10 the parent.
-        Since the traversal comes from the left, node 10 has not been visited before, so it becomes the successor of node 8
+        Since the traversal comes from the left, node 10 has not been visited before.
+        so it becomes the successor of node 8
  
 ```
 
