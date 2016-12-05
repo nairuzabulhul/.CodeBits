@@ -33,7 +33,8 @@ Step1:
     Example:
      * if we pick node 12. node12 has not subtree, so too it goes back to parent node (node 10), 
        the traversal back to the parent comes from the right side. which in this case node 10 has been visited, 
-       and we need to traverse one more step to find the successor of the node. In this case, the step back from node 10 is node 15.
+       and we need to traverse one more step to find the successor of the node. 
+       In this case, the step back from node 10 is node 15.
        Therefore, node 15 is the successor of node 12
        
      * if we pick node 8, node 8 has NO to right subtree, so we traverse back to node 10 the parent.
