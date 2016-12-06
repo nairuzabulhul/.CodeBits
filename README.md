@@ -62,7 +62,7 @@
    
    - The Linux Command Line: A Complete Introduction 
    
-   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html)
+   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
    
    - [The Technical Interview Cheat Sheet by TSiege] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
    
