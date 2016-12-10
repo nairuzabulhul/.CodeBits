@@ -77,7 +77,7 @@
    
 -  [Black Hat Python] (https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1480898714&sr=8-1&keywords=black+hat+Python)
 
-- [100 Computer Networking Resources] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Computer%20Networking/Network_Programming.md)
+
 
 ### Computer Security:
 
