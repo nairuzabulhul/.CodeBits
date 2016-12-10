@@ -80,6 +80,7 @@
 ### Computer Security:
 
 - 100 Top Computer Security Questions and Asnwers
+- [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
   
 ### Interview prep courses:
 - InterviewBit
