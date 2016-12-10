@@ -142,7 +142,7 @@
 
 #### Python :
 
- - [Import Python] (http://importpython.com/books/)
+  - [Import Python] (http://importpython.com/books/)
 
   - Python for Beginners by Alex Bowers <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                           <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
