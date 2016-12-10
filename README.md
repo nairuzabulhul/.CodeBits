@@ -80,12 +80,7 @@
 ### Computer Security:
 
 - 100 Top Computer Security Questions and Asnwers
-- [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)  
-                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
   
 ### Interview prep courses:
