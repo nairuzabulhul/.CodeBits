@@ -58,7 +58,7 @@
    
    - The Linux Command Line: A Complete Introduction 
    
-   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
    
    - [The Technical Interview Cheat Sheet by TSiege] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
    
@@ -71,13 +71,13 @@
 
 ### Computer Networking :
 
-- [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [100 Top Networking Questions and Answers] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
    
 -  [Volient Python ] (https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1597499579&pd_rd_r=5C5E512J452R8PW2PE6H&pd_rd_w=LhlpR&pd_rd_wg=KSEN0&psc=1&refRID=5C5E512J452R8PW2PE6H)
    
 -  [Black Hat Python] (https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1480898714&sr=8-1&keywords=black+hat+Python)
 
-- [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
    
 
 ### Computer Security:
