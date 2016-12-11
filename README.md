@@ -138,11 +138,17 @@
 
 - [How can I prepare for a tough coding interview in one week?] (https://www.quora.com/How-can-I-prepare-for-a-tough-coding-interview-in-one-week)
 
+- [How I landed a top-tier tech internship by doing something I love] (https://medium.freecodecamp.com/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48#.aggszk6if)
+
 ### Online Courses:
 
 #### Python :
 
-  - [Import Python] (http://importpython.com/books/) - A collection of Python books from novice to expert
+  - [Import Python] (http://importpython.com/books/) - A collection of Python books from novice to expert <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
   - Python for Beginners by Alex Bowers <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                           <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -189,7 +195,7 @@
   
 #### JavaScript :
 
-- Free Code Camp : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Free Code Camp ] (https://www.freecodecamp.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
