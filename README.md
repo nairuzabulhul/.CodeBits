@@ -216,15 +216,15 @@
                                                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                                        
                                                                        
-- JavaScript from Beginner to Expert by Arkadiusz Włodarczyk <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [JavaScript from Beginner to Expert by Arkadiusz Włodarczyk] (https://www.udemy.com/javascript-from-beginner-to-expert-bring-life-to-your-site/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                                                                                 
                                                                        
-- Projects in JavaScript & jQuery  by Edonix  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Projects in JavaScript & jQuery  by Edonix] (https://www.udemy.com/projects-in-javascript-jquery/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                                       
 
-- The Complete BootStrap: Master Class Course Build 4 projects by Joe Parys  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [The Complete BootStrap: Master Class Course Build 4 projects by Joe Parys] (https://www.udemy.com/bootstrapcourse/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                                       
