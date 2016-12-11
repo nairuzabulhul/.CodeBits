@@ -142,6 +142,10 @@
 
 - [How I landed a top-tier tech internship by doing something I love] (https://medium.freecodecamp.com/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48#.aggszk6if)
 
+- [Here's How to Prepare for Tech Interviews] -- Reddit (https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/#bottom-comments)
+
+- [Interview by Andreis] (https://github.com/andreis/interview)
+
 ### Online Courses:
 
 #### Python :
