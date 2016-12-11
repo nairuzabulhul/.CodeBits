@@ -176,7 +176,7 @@
                      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                      
                   
-  - Treehouse Django Tutorials
+  - [Treehouse Django Tutorials] (https://teamtreehouse.com/tracks/learn-django)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
