@@ -29,6 +29,7 @@
 ### Books in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
+   - [Problem Solving with Algorithms and Data Structures using Python]           (http://interactivepython.org/courselib/static/pythonds/index.html)
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
