@@ -29,6 +29,7 @@
 ### Books in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
+   
    - [Problem Solving with Algorithms and Data Structures using Python]           (http://interactivepython.org/courselib/static/pythonds/index.html)
    - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -38,7 +39,7 @@
                     
    - [Cracking the Code Interview] (https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
    
-   - Programming Interviews Exposed
+   - [Programming Interviews Exposed] (https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
    
    - [Python for Data Structure, Algorithms and Interviews] (https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
