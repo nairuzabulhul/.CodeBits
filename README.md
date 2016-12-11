@@ -94,8 +94,8 @@
 - HackerRank
 
 
-### Great Advice from Articles :
-#### This section for articles that provided me great advice in how to prepare well for interviews.
+### Great Online Advice:
+#### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
