@@ -138,13 +138,13 @@
 
 - [7 Steps to Solve Algorithm Problems] (https://www.youtube.com/watch?v=GKgAVjJxh9w)
 
-- [How can I prepare for a tough coding interview in one week?] (https://www.quora.com/How-can-I-prepare-for-a-tough-coding-interview-in-one-week)
+- [How can I prepare for a tough coding interview in one week? - Quora ] (https://www.quora.com/How-can-I-prepare-for-a-tough-coding-interview-in-one-week)
 
 - [How I landed a top-tier tech internship by doing something I love] (https://medium.freecodecamp.com/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48#.aggszk6if)
 
-- [Here's How to Prepare for Tech Interviews] -- Reddit (https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/#bottom-comments)
+- [Here's How to Prepare for Tech Interviews - Reddit ]  (https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/#bottom-comments)
 
-- [Interview by Andreis] (https://github.com/andreis/interview)
+- [Interview by Andreis - GitHub] (https://github.com/andreis/interview)
 
 ### Online Courses:
 
