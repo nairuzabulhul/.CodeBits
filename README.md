@@ -79,6 +79,7 @@
    
 -  [Black Hat Python] (https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1480898714&sr=8-1&keywords=black+hat+Python)
 
+- [100 Resources for Computer Networks] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Networks/Contents.md)     
 
 
 ### Computer Security:
@@ -255,10 +256,7 @@
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                             
-                                                                          
-                                                                       
-- [100 Resources for Computer Networks] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Networks/Contents.md)                                                                       
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                                             
 
 
 #### Youtube Channels:
