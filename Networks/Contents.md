@@ -1,4 +1,4 @@
-### List of Computer Networks Resources 
+## 100 Resources for Computer Networks
 
 <img src="http://www.fabuloussavers.com/new_wallpaper/Network_Datacenter_Wallpapers_freecomputerdesktopwallpaper_1366.jpg" width="550px" >
 
