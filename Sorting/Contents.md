@@ -3,7 +3,7 @@
 
 1- [Quick Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Quick_Sort.md)
 
-2- Bubble Sort
+2- [Bubble Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Bubble%20Sort.md)
 
 3- Insertion Sort
 
