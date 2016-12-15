@@ -1,8 +1,7 @@
 ## Merge Sort
 
-#### Time Complexity : Best & Avergae & Worst : O(n log n) 
-#### Space Complexity : O(n)
-
+- Time Complexity : Best & Avergae & Worst : O(n log n) 
+-  Space Complexity : O(n)
 
 
 
