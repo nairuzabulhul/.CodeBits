@@ -1,7 +1,7 @@
 #Sorting
 
 
-1- Quick Sort
+1- [Quick Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Quick_Sort.md)
 
 2- Bubble Sort
 
