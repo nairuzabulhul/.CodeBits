@@ -23,6 +23,7 @@
 - [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
 - [ Trees ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/Contents.md)
 - [Graphs] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Graphs/Contents.md)
+- [Sorting] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Contents.md)
 - Backtracking:
 - Dynamic Programming
 
