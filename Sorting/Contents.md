@@ -9,7 +9,7 @@
 
 4- Selection Sort
 
-5- Merge Sort
+5- [Merge Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Merge_Sort.md)
 
 6- Heap Sort
 
