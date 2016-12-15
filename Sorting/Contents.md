@@ -7,7 +7,7 @@
 
 3- Insertion Sort
 
-4- Selection Sort
+4- [Selection Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Selection%20Sort.md)
 
 5- [Merge Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Merge_Sort.md)
 
