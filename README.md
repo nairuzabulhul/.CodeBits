@@ -72,7 +72,9 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
  
-  - [Sorting Algorithms by Techilageek] (http://techilageek.com/category/algorithms/)
+ - [Sorting Algorithms by Techilageek] (http://techilageek.com/category/algorithms/)
+ 
+ - [Harvard University's  CSC50 Videos] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Harvard%20University's%20Videos.md)
    
 
 ### General Alrogrithm Interview Questions:
