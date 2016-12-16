@@ -5,7 +5,7 @@
 
 2- [Bubble Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Bubble%20Sort.md)
 
-3- Insertion Sort
+3- [Insertion Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Insertion%20Sort.md)
 
 4- [Selection Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Selection%20Sort.md)
 
