@@ -71,6 +71,8 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+ 
+  - [Sorting Algorithms by Techilageek] (http://techilageek.com/category/algorithms/)
    
 
 ### General Alrogrithm Interview Questions:
