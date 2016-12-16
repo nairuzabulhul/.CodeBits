@@ -9,6 +9,6 @@
 
 2- [Introduction to Merge Sort] (https://www.youtube.com/watch?v=TzeBrDU-JaY) 
 
-3- [Introduction to Megrge Sort] (https://www.youtube.com/watch?v=sWtYJv_YXbo)
+3- [Introduction to Merge Sort] (https://www.youtube.com/watch?v=sWtYJv_YXbo)
 
 3- [Implementation of Merge Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Merge%20Sort%20Implementation.md)
