@@ -1,7 +1,7 @@
 #Sorting
 
 
-1- [Quick Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Quick_Sort.md) -- MUST KNOW :white_check_mark:
+1- [Quick Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Quick_Sort.md) -- MUST KNOW :ballot_box_with_check:
 
 2- [Bubble Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Bubble%20Sort.md)
 
