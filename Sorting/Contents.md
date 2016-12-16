@@ -11,6 +11,6 @@
 
 5- [Merge Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Merge_Sort.md)
 
-6- Heap Sort
+6- [Heap Sort] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Heap%20Sort.md)
 
 7 -Radix Sort
