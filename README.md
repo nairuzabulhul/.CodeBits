@@ -184,7 +184,7 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     
-  - Python Tutorials by Code Academy
+  - [Python Tutorials by Code Academy] (https://www.codecademy.com/learn/python)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -197,13 +197,13 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     
                     
-  - Django Tutorials for Beginners by NewBoston
+  - [Django Tutorials for Beginners by NewBoston] (https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
   
-  - Django Tutorial: Build your first Fast & Free by BlueApple
+  -[Django Tutorial: Build your first Fast & Free by BlueApple] (https://www.udemy.com/create-your-first-django-website-fast-free/)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                  
