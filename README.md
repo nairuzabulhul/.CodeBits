@@ -203,7 +203,7 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
   
- - [Django Tutorial: Build your first Fast & Free by BlueApple] (https://www.udemy.com/create-your-first-django-website-fast-free/)
+  - [Django Tutorial: Build your first Fast & Free by BlueApple] (https://www.udemy.com/create-your-first-django-website-fast-free/)
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                  
