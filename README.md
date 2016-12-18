@@ -329,7 +329,7 @@
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                          
                                              
-- [PacktPub.com] (https://www.packtpub.com/) -- Website the offers a great collection of e-books in IT, Computer Science and Secruity 
+- [PacktPub.com] (https://www.packtpub.com/) ---- offers a great collection of e-books in IT, Computer Science and Secruity 
                                                                <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
