@@ -57,7 +57,7 @@
                                                              
    - Think Like a Programmer: An Introduction to Creative Problem Solving
    
-   - Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners] (https://automatetheboringstuff.com/)
    
    - The Linux Command Line: A Complete Introduction 
    
