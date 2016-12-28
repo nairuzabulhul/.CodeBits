@@ -95,6 +95,11 @@
 ### Computer Security:
 
 - [100 Top Computer Security Questions and Asnwers] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
+
+
+### Databases 
+
+- [100 Top Databases Questions](https://github.com/nairuzabulhul/.CodeBits/tree/master/Databases)
   
 ### Interview prep courses:
 - InterviewBit
