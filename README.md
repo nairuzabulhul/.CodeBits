@@ -94,7 +94,7 @@
 
 ### Computer Security:
 
-- 100 Top Computer Security Questions and Asnwers
+- [100 Top Computer Security Questions and Asnwers] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
   
 ### Interview prep courses:
 - InterviewBit
