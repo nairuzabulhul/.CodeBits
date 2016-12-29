@@ -9,12 +9,7 @@
 
 2- Difference between Raid0 vs Raid1 .
 
-
-
-
 3- What is two factor authentication ?
-
-
 
 
 4- What is Malware?
@@ -40,4 +35,42 @@
 9- What is nested VPN ?
 
 
-10-
+10- What is Zero-day exploit?
+
+
+11- Difference between a vulnerablility and exploitation?
+
+
+
+12- Name well-known frameworks
+
+  - Metasploit
+  - Beef : Browser exploitation framework
+  - 
+  
+  
+13- Name 10 Top secuirty tools in Kali? (USED)
+
+
+
+
+14- If the program connection is slowd due to LAN issues. What would you do?
+
+
+15-What is Computer registtry ?
+
+
+16- what is server  hardware vs worksation hardware?
+
+
+17- What is AWES and Azure ?
+
+
+18-What is the use of policies ?
+
+
+19- What is Active Directory ?
+
+
+
+
