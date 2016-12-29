@@ -283,7 +283,10 @@ Peer to peer are networks that does not reply on a server. All PCs on this netwo
 ### 62) What is DNS?
 
 DNS is Domain Name System. The main function of this network service is to provide host names to TCP/IP address resolution.
-It is responsible for translating domain names into IPs address or vice versa
+It is responsible for translating domain names into IPs address or vice versa.
+
+Generally, the computer looks for the IP address in the local cache of the operating system, if it finds, it retrieves the url of page. 
+However if not, it initiates  a DNS request to look for the domain name of the requested IP. The request is made to an external DNS server.
 
 ### 63) What advantages does fiber optics have over other media?
 
