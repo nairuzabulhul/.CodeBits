@@ -283,6 +283,7 @@ Peer to peer are networks that does not reply on a server. All PCs on this netwo
 ### 62) What is DNS?
 
 DNS is Domain Name System. The main function of this network service is to provide host names to TCP/IP address resolution.
+It is responsible for translating domain names into IPs address or vice versa
 
 ### 63) What advantages does fiber optics have over other media?
 
