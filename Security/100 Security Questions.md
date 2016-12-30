@@ -94,8 +94,13 @@ IPS- Intrusion Prevention System detects the intrusion (like IDS) and goes one s
 
 Examples:
 
-proxy – Squid
-Firewall- IPTables, CISCO Pix, ZoneAlarm, SonicWasll
-IDS- SNORT
-IPS- IBM Proventia
+- proxy – Squid
+
+- Firewall- IPTables, CISCO Pix, ZoneAlarm, SonicWasll
+
+- IDS- SNORT
+
+- IPS- IBM Proventia
+
+#### 21-
 
