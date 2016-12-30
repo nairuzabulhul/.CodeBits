@@ -22,9 +22,13 @@
 
 #### 7- Difference between encoding, hashing and encryption.
 
-Ans– At a very high level, all these 3 terms might appear to be similar and people often confuse between them. But each of the technique is distinct and has different use case. The purpose of encoding is to transform data so that it can be properly (and safely) consumed by a different type of system, e.g. binary data being sent over email, or viewing special characters on a web page. The goal is not to keep information secret, but rather to ensure that it’s able to be properly consumed. It does not require a key as the only thing required to decode it is the algorithm that was used to encode it. Examples: ASCII, Unicode, URL Encoding, Base64.
+Ans– At a very high level, all these 3 terms might appear to be similar and people often confuse between them. But each of the technique is distinct and has different use case. The purpose of encoding is to transform data so that it can be properly (and safely) consumed by a different type of system, e.g. binary data being sent over email, or viewing special characters on a web page. The goal is not to keep information secret, but rather to ensure that it’s able to be properly consumed. It does not require a key as the only thing required to decode it is the algorithm that was used to encode it. 
 
-The purpose of encryption is to transform data in order to keep it secret from others. It uses a key, which is kept secret, in conjunction with the plaintext and the algorithm, in order to perform the encryption operation. Examples: AES, Blowfish, RSA. 
+##### Examples: ASCII, Unicode, URL Encoding, Base64.
+
+The purpose of encryption is to transform data in order to keep it secret from others. It uses a key, which is kept secret, in conjunction with the plaintext and the algorithm, in order to perform the encryption operation. 
+
+##### Examples: AES, Blowfish, RSA. 
 
 The purpose of hashing is to take arbitrary input and produce a fixed-length string that has the following attributes:
 
@@ -35,7 +39,7 @@ Any modification of a given input should result in drastic change to the hash.
 
 
 
-Examples- MD5, SHA1, SHA2 etc. Hashing is often used in computer forensics to verify integrity of the digital evidence.
+##### Examples- MD5, SHA1, SHA2 etc. Hashing is often used in computer forensics to verify integrity of the digital evidence.
 
 
 8- What are some of Encryption Algorithms?
