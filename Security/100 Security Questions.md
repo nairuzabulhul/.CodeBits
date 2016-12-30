@@ -82,5 +82,20 @@ Examples- MD5, SHA1, SHA2 etc. Hashing is often used in computer forensics to ve
 19- What is Active Directory ?
 
 
+#### 20- What is the difference between proxy, firewall, IDS and IPS?
 
+A proxy server is a server (a computer system or an application) that acts as an intermediary for requests from clients seeking resources from other servers. A client connects to the proxy server, requesting some service, such as a file, connection, web page, or other resource available from a different server and the proxy server evaluates the request as a way to simplify and control its complexity. 
+
+Firewall is basically meant for network traffic control/filtering mainly at layer-3. It allows/denies packets and connections based on certain pre-defined rules.
+
+IDS- Intrusion Detection System is an application which tries to detect intrusion attempts based on attack signature database it has.
+
+IPS- Intrusion Prevention System detects the intrusion (like IDS) and goes one step ahead to prevent it as well. It simply drops the packet it thinks suspicious (based on rules)
+
+Examples:
+
+proxy – Squid
+Firewall- IPTables, CISCO Pix, ZoneAlarm, SonicWasll
+IDS- SNORT
+IPS- IBM Proventia
 
