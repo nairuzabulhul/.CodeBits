@@ -104,7 +104,7 @@ Examples:
 
 - IPS- IBM Proventia
 
-#### 21- Difference between symmetric and asymmetric encyprtion.
+#### 21- Difference between symmetric and asymmetric encyprtion. [YouTube Video] (https://www.youtube.com/watch?v=E5FEqGYLL0o)
 
 The key difference between asymmetric and symmetric encryption is that symmetric encryption uses one secret key that has to be shared among the sender and recipient of the message.
 
