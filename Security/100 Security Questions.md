@@ -9,7 +9,7 @@
  communications on the Internet for such things as e-mail, Internet faxing, and other data transfers
 
 
-#### 2- Difference between Raid0 vs Raid1 .
+#### 2- 
 
 #### 3- What is two factor authentication ?
 
