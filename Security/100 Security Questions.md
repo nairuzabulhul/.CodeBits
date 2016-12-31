@@ -37,8 +37,6 @@ Multiple disparate inputs should not produce the same output.
 It should not be possible to go from the output to the input.
 Any modification of a given input should result in drastic change to the hash.
 
-
-
 ##### Examples- MD5, SHA1, SHA2 etc. Hashing is often used in computer forensics to verify integrity of the digital evidence.
 
 
@@ -106,5 +104,9 @@ Examples:
 
 - IPS- IBM Proventia
 
-#### 21-
+#### 21- Difference between symmetric and asymmetric encyprtion.
+
+The key difference between asymmetric and symmetric encryption is that symmetric encryption uses one secret key that has to be shared among the sender and recipient of the message.
+
+While asymmetric encryption utilizes a private key and a public key to decrypt and encrypt messages during communication
 
