@@ -1,6 +1,6 @@
 ###### [source : sagarr525] (https://sagarr525.wordpress.com/2013/05/08/information-security-interview-questions/)
 
-### 100 Top Computer Security Questions
+### 100 Top General Computer Security Questions
 
 
 #### 1- What is TLS ?
@@ -110,3 +110,19 @@ The key difference between asymmetric and symmetric encryption is that symmetric
 
 While asymmetric encryption utilizes a private key and a public key to decrypt and encrypt messages during communication
 
+#### 22-  What is port scanning? What are the countermeasures to prevent it?
+
+Port scanner is an application designed to probe a server or host for open ports. 
+Since a port is a place where information goes into and out of a computer, 
+port scanning identifies open doors to a computer.
+
+Port scanning has legitimate uses in managing networks, but port scanning also can be 
+malicious in nature if someone is looking for a weakened access point to break into your computer.
+
+
+Preventing port scanning through firewalls and IDS
+
+#### 23- What is DLP? How does it work?
+
+
+#### 24-
