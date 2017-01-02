@@ -125,4 +125,4 @@ Preventing port scanning through firewalls and IDS
 #### 23- What is DLP? How does it work?
 
 
-#### 24-
+#### 24- What is VPS ?
