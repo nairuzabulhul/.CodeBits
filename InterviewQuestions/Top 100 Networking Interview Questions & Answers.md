@@ -448,3 +448,10 @@ The maximum allowable length for a network segment using 100Base-FX is 412 meter
 ### 101) What is Socket?
 
 A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to. 
+
+
+### 102) What is a Socks Proxy?
+
+ Socks proxy is a general puporse proxy server that establish TCP connection to another 
+	server on the behalf of a client, then routes all the traffic back and forth between
+	client and the server
