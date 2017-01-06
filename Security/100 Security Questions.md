@@ -135,3 +135,12 @@ PGP works by encrypting a message using a public key that’s tied to a specific
 
 
 #### 26- What is HeartBleed Bug?
+
+
+
+#### 27- what is clearnet?
+
+Clearnet is a term typically referring to the unencrypted, or non-darknet, non-Tor internet. This traditional world wide web has relatively low-base anonymity, with most websites routinely identifying users by their IP address.
+
+
+#### 28-
