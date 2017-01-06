@@ -126,3 +126,12 @@ Preventing port scanning through firewalls and IDS
 
 
 #### 24- What is VPS ?
+
+
+#### 25- What is PGP?
+
+It is stands for "Pretty Good Privacy". it’s most often used for sending encrypted messages between two people. 
+PGP works by encrypting a message using a public key that’s tied to a specific user; when that user receives the message, they use a private key that’s known only to them to decrypt it.
+
+
+#### 26- 
