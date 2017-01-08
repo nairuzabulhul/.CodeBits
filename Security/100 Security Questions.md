@@ -148,4 +148,10 @@ Clearnet is a term typically referring to the unencrypted, or non-darknet, non-T
 OpenSSH is a free open source set of computer tools used to provide secure and encrypted communication over a computer network
 by using the ssh protocol. Many people, new to computers and protocols, create a misconception about OpenSSH, they think it is a protocol, but it is not, it is a set of computer programs that use the ssh protocol.
 
-#### 29-
+#### 29- What is SSH ? 
+
+ SSH secure Shell is an ecyrpted network protocol that provides a private channel between a client and the server. SSH can be used to transmitt data, files
+
+
+##### 30 - 
+ 
