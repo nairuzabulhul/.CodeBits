@@ -125,7 +125,7 @@
 ### Great Online Advice:
 #### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
-- [http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/] (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews by Hasseeb Qureshi] (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
