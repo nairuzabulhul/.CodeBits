@@ -125,6 +125,13 @@
 ### Great Online Advice:
 #### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
+- [http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/] (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+
+
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
