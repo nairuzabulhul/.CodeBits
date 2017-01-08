@@ -143,4 +143,9 @@ PGP works by encrypting a message using a public key that’s tied to a specific
 Clearnet is a term typically referring to the unencrypted, or non-darknet, non-Tor internet. This traditional world wide web has relatively low-base anonymity, with most websites routinely identifying users by their IP address.
 
 
-#### 28-
+#### 28- What is OpenSSH ?
+
+OpenSSH is a free open source set of computer tools used to provide secure and encrypted communication over a computer network
+by using the ssh protocol. Many people, new to computers and protocols, create a misconception about OpenSSH, they think it is a protocol, but it is not, it is a set of computer programs that use the ssh protocol.
+
+#### 29-
