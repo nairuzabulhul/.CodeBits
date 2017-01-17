@@ -159,5 +159,10 @@ Virtual Network Computing (VNC) is a graphical desktop sharing system that uses 
 Frame Buffer protocol (RFB) to remotely control another computer.
 
 
-##### 31- 
+##### 31- What is reverse connection?
+
+A reverse connection is usually used to bypass firewall restrictions on open ports. A firewall usually blocks incoming connections on open ports, but does not block outgoing traffic.
+
+
+##### 32- 
  
