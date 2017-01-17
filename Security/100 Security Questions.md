@@ -153,7 +153,10 @@ by using the ssh protocol. Many people, new to computers and protocols, create a
  SSH secure Shell is an ecyrpted network protocol that provides a private channel between a client and the server. SSH can be used to transmitt data, files
 
 
-##### 30 - 
+##### 30 - What is VNC ?
+
+Virtual Network Computing (VNC) is a graphical desktop sharing system that uses the Remote access
+Frame Buffer protocol (RFB) to remotely control another computer.
 
 
 ##### 31- 
