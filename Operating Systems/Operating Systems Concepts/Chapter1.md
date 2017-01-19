@@ -56,7 +56,9 @@ Storage Area Network, which allow many systems to attach to a pool of storage
 
    and restart the applications that were running on the failed machine. 
 
-#### Operating Systems Structure:
+=========================================================
+### 1.4  Operating Systems Structures:
+=========================================================
 
 - An operating system provides the envirorunent within which programs are executed.
 
@@ -142,6 +144,6 @@ If several jobs are ready to be brought into memory, and if there is not enough 
   separating logical memory as viewed by the user from physical memory 
 
 =========================================================
-#### Operating Systems Operations:
+### 1.5 Operating Systems Operations:
 =========================================================
  
