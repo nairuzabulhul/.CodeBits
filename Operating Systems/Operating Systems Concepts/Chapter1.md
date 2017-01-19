@@ -18,7 +18,7 @@
 
    the con1puting nodes in the cluster to communicate with one another
 
-- Clusterin.g can be structured or symmetrically
+#### Clusterin.g can be structured or symmetrically
 
 - In asymmetric clustering, one machine is in hot-standby mode while the other is running the applications
 
@@ -33,17 +33,18 @@
 
 	-  Parallel clusters allow multiple hosts to access the same data on the shared storage over WAN Ex:  Oracle's database
 
-- Distributed Lock Manager:
+#### Distributed Lock Manager:
 
-	To provide this shared access to data, the system must also supply access control and locking to 
+  To provide this shared access to data, the system must also supply access control and locking to 
   
   ensure that no conflicting operations occur. 	This function, commonly known as Distributed Lock Manager,
   
   is included in some cluster technology. 
 
-- SANS: Storage Area Network, which allow many systems to attach to a pool of storage
 
-- 
+#### SANS: 
+Storage Area Network, which allow many systems to attach to a pool of storage
+
 
 #### How clustered systems work? 
 
