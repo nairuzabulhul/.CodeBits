@@ -1,2 +1,2 @@
-## 100 Top Operating System Questions:
+## 100 Top Operating Systems Questions:
 
