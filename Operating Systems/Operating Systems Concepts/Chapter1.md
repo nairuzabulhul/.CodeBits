@@ -94,4 +94,54 @@ Storage Area Network, which allow many systems to attach to a pool of storage
 
 -  As the system switches rapidly from one user to the next, each user is given the impression that the entire computer system is dedicated to his use
 
+#### Process:
+
+- A program loaded into memory and executing .
+
+- When a process executes, it typically executes for only a short tirne it either finishes or needs to perform I/0. 
+
+- I/0 may be interactive; that is, output goes to a display for the user, 
+
+  and input comes from a user keyboard, mouse, or other device
+
+- interactive I/0 may take a long time to complete.
+
+
+#### Time sharing and multiprogramming
+
+- Time sharing and multiprogramming require that several jobs be kept simultaneously in memory. 
+
+If several jobs are ready to be brought into memory, and if there is not enough room for all of them,
+
+ then the system must choose among them.
+
+
+#### CPU Scheduling:
+	
+- CPU makes a decision on which program to execute first out of the job pool
+
+
+#### Swapping:
+
+- In a time-sharing system, the operating system must ensure reasonable response time, 
+
+  which is sometimes accomplished through "swapping", where processes are swapped in and out
+
+  of main memory to the disk
+
+#### Virtual Memory :
+
+- a techniqu that allows the execution of aprocessthat is not completely in memory
+
+- The main advai1tage of the virtual-memory scheme is that it enables users to run programs 
+	
+  that are larger than actual physical memory
+
+- it abstracts main memory into a large, uniform array of storage, 
+
+  separating logical memory as viewed by the user from physical memory 
+
+=========================================================
+#### Operating Systems Operations:
+=========================================================
  
