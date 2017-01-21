@@ -1,10 +1,10 @@
-### Source :
+##### Source: [Operating System Concepts 8th Edition by Abraham Silberschatz] (https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720)
 
 
-###Chapter 1: 
+###Chapter 1: Introduction
 
 
-### Cluster Systems:
+#### Cluster Systems:
 
 -  Clustered systems gather together multiple CPUs to accomplish computational work
 
@@ -36,14 +36,13 @@
 #### Distributed Lock Manager:
 
   To provide this shared access to data, the system must also supply access control and locking to 
-  
+ 
   ensure that no conflicting operations occur. 	This function, commonly known as Distributed Lock Manager,
   
   is included in some cluster technology. 
 
 
-#### SANS: 
-Storage Area Network, which allow many systems to attach to a pool of storage
+#### SANS: Storage Area Network, which allow many systems to attach to a pool of storage
 
 
 #### How clustered systems work? 
@@ -118,9 +117,7 @@ If several jobs are ready to be brought into memory, and if there is not enough 
  then the system must choose among them.
 
 
-#### CPU Scheduling:
-	
-- CPU makes a decision on which program to execute first out of the job pool
+#### CPU Scheduling: CPU makes a decision on which program to execute first out of the job pool
 
 
 #### Swapping:
@@ -146,17 +143,15 @@ If several jobs are ready to be brought into memory, and if there is not enough 
 =========================================================
 ### 1.5 Operating Systems Operations:
 =========================================================
+ 
+#### 1.5.1  Dual Mode Operation:
 
-=========================================================     
-1.5.1  Dual Mode Operation
-==========================================================
-
-There are two separate mode of operation:
+- There are two separate mode of operation:
 	
 	- User Mode
 	- Kernel Mode
 
-Bit Mode : is added to the hardware of the computer to indicate the current mode: kernel (0) or user (1)
+- Bit Mode : is added to the hardware of the computer to indicate the current mode: kernel (0) or user (1)
 
 - With Bit mode we are able to distinguish between a task that is executed on behalf of the operating system and
 	  the one that is executed on behalf of the user
@@ -183,18 +178,18 @@ Note: control is switched back to the operating system via an interrupt, a trap,
 System calls provide the means for a user program to ask the operating 
 system to perform tasks reserved for the operating system on the user program's behalf
 
-===============================================================================================
-1.5.2 Timer
-============================================================================================== 
+=======================================
+#### 1.5.2 Timer
+=======================================
 
 - A timer can be set to interrupt the computer after a specified period of time.
 
 - if the timer interrupts, control transfers automatically to the operating system, which may 
    treat the interrupt as a fatal error or may give the program more time
 
-======================================================================================================
- 1.6 Process Management 
-======================================================================================================
+=================================================
+ #### 1.6 Process Management 
+=================================================
 
 #### What is a process? 
 
@@ -234,9 +229,9 @@ system to perform tasks reserved for the operating system on the user program's 
 - Providing mechanisms for process communication
 
 
-============================================================================================================
-	1.7 Memory Management
-============================================================================================================
+=======================================================
+#### 1.7 Memory Management
+======================================================
 
 #### What is the main memory:
 
@@ -260,9 +255,9 @@ system to perform tasks reserved for the operating system on the user program's 
 - Allocating and deallocating memory space as needed 
 
 
-====================================================================================================================
-	1.8 Storage Management
-====================================================================================================================
+==================================================
+#### 1.8 Storage Management
+==================================================
 
  - File management is one of the most visible components of an operating system. Computers can store information 
    on several different types of physical media. 
@@ -315,9 +310,9 @@ system to perform tasks reserved for the operating system on the user program's 
 - In contrast, transfer data from disk to memory is usually controlled by operating system
 
 
-=================================================================================================================
-	1.8 I/O Systems
-=================================================================================================================
+===========================================
+#### 1.8 I/O Systems
+===========================================
 
 - One of the purposes of all operating system is to hide the peculiarities of specific hardware 
   devices from the user
@@ -328,9 +323,9 @@ system to perform tasks reserved for the operating system on the user program's 
 - A general device-driver interface 
 - Drivers for specific hardware devices
 
-=======================================================================================================================
-	1.9 Protection and Security
-========================================================================================================================
+==================================================
+#### 1.9 Protection and Security
+==================================================
 
 #### Protection:
 	- Protection, is any mechanism for controlling the access of processes or users-to the resources defined by a computer system
@@ -338,9 +333,9 @@ system to perform tasks reserved for the operating system on the user program's 
 #### Security :
 	- the job of security to defend a system from external and internal attacks
 
-========================================================================================================================
-	1.10 Distributed Systems
-=========================================================================================================================
+==================================================
+#### 1.10 Distributed Systems
+==================================================
 
 #### What is a distributed System ?
 
