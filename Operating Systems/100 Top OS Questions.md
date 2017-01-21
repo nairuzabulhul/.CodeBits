@@ -21,3 +21,8 @@ A processor register (CPU register) is one of a small set of data holding places
 A register may hold an instruction, a storage address, or any kind of data
 
 
+#### 4- What is Caching ?
+
+Caching: is the process of storing data in a cache. A cache is a temporary storage area.
+
+For example, the files you automatically request by looking at a Web page are stored on your hard disk in a cache subdirectory under the directory for your browser.
