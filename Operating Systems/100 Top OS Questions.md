@@ -10,10 +10,9 @@ such as a personal computer, an embedded system performs pre-defined tasks, usua
 Ex: cell phones, printers, thermostats, calculators, and videogame consoles
 
 
-
 #### 2- What is Clustered Systems ?
 
-Clustered systems gather together multiple CPUs to accomplish computational work
+a cluster is a group of servers and other resources that act like a single system and enable high availability and, in some cases, load balancing and parallel processing.
 
 #### 3- What is a register ?
 
