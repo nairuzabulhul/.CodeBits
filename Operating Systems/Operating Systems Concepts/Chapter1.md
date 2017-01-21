@@ -1,10 +1,10 @@
+![Log] (https://images-na.ssl-images-amazon.com/images/I/51spVw9pGKL._SY344_BO1,204,203,200_.jpg)
+
 ##### Source: [Operating System Concepts 8th Edition by Abraham Silberschatz] (https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720)
 
-![Log] [(https://images-na.ssl-images-amazon.com/images/I/51spVw9pGKL._SY344_BO1,204,203,200_.jpg)] (https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720)
 
 
 ###Chapter 1: Introduction
-
 
 #### Cluster Systems:
 
