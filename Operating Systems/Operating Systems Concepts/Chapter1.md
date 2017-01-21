@@ -16,7 +16,7 @@
 
 -  Beowulf clusters a set of open-source software libraries that allow 
 
-   the con1puting nodes in the cluster to communicate with one another
+   the computing nodes in the cluster to communicate with one another
 
 #### Clusterin.g can be structured or symmetrically or asymmetrically 
 
