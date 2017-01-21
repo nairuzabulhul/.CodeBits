@@ -179,7 +179,7 @@ System calls provide the means for a user program to ask the operating
 system to perform tasks reserved for the operating system on the user program's behalf
 
 =======================================
-#### 1.5.2 Timer
+### 1.5.2 Timer
 =======================================
 
 - A timer can be set to interrupt the computer after a specified period of time.
@@ -188,7 +188,7 @@ system to perform tasks reserved for the operating system on the user program's 
    treat the interrupt as a fatal error or may give the program more time
 
 =================================================
- #### 1.6 Process Management 
+### 1.6 Process Management 
 =================================================
 
 #### What is a process? 
@@ -230,7 +230,7 @@ system to perform tasks reserved for the operating system on the user program's 
 
 
 =======================================================
-#### 1.7 Memory Management
+### 1.7 Memory Management
 ======================================================
 
 #### What is the main memory:
@@ -256,7 +256,7 @@ system to perform tasks reserved for the operating system on the user program's 
 
 
 ==================================================
-#### 1.8 Storage Management
+### 1.8 Storage Management
 ==================================================
 
  - File management is one of the most visible components of an operating system. Computers can store information 
@@ -324,17 +324,15 @@ system to perform tasks reserved for the operating system on the user program's 
 - Drivers for specific hardware devices
 
 ==================================================
-#### 1.9 Protection and Security
+### 1.9 Protection and Security
 ==================================================
 
-#### Protection:
-	- Protection, is any mechanism for controlling the access of processes or users-to the resources defined by a computer system
+#### Protection: Protection, is any mechanism for controlling the access of processes or users-to the resources defined by a computer system
 
-#### Security :
-	- the job of security to defend a system from external and internal attacks
+#### Security :the job of security to defend a system from external and internal attacks
 
 ==================================================
-#### 1.10 Distributed Systems
+### 1.10 Distributed Systems
 ==================================================
 
 #### What is a distributed System ?
