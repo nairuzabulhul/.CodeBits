@@ -256,7 +256,7 @@ system to perform tasks reserved for the operating system on the user program's 
 
 
 ==================================================
-### 1.8 Storage Management
+###  1.8 Storage Management
 ==================================================
 
  - File management is one of the most visible components of an operating system. Computers can store information 
