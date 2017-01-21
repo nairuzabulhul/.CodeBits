@@ -297,7 +297,8 @@ system to perform tasks reserved for the operating system on the user program's 
 
 #### What is registers ?
 
-- 
+ -  is one of a small set of data holding places that are part of the computer processor. 
+    A register may hold an instruction, a storage address, or any kind of data
 
 
 #### Information Storage:
@@ -311,7 +312,7 @@ system to perform tasks reserved for the operating system on the user program's 
 
 
 ===========================================
-#### 1.8 I/O Systems
+#### 1.8    I/O Systems
 ===========================================
 
 - One of the purposes of all operating system is to hide the peculiarities of specific hardware 
