@@ -15,4 +15,9 @@ Ex: cell phones, printers, thermostats, calculators, and videogame consoles
 
 Clustered systems gather together multiple CPUs to accomplish computational work
 
+#### 3- What is a register ?
+
+A processor register (CPU register) is one of a small set of data holding places that are part of the computer processor. 
+A register may hold an instruction, a storage address, or any kind of data
+
 
