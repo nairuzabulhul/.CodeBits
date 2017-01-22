@@ -190,3 +190,32 @@
 
 	- With non-blocking communication, the sender might reuse the buffer 
 
+### Comunication in CLient-Sever Systems:
+
+#### Socket: is defined as an endpoint for communication. A pair of processes communicating over 
+	    a network employ a pair of sockets-one for each process. 
+	    A socket is identified by an IP address concatenated with a port number
+
+
+### What is Pipe:
+
+ A unidirectional channel 
+	- One write end
+	-  One read end 
+	
+__Why Piping is used?__ 
+
+The UNIX/Linux pipes allows linking of processes to obtain complex functions from simple commands 
+
+	-  who | sort 
+
+
+### Remote Procedure Calls 
+ -  The computers might have different data format 
+ -  Support for locating the server/procedure needed 
+ -  Stubs – client and server – side proxies implementing the needed communication 
+ -  The client-side stub locates the server and marshalls the parameters. 
+ - The server-side stub receives this message, unpacks the marshalled parameters, and performs the procedure on the server.
+
+
+
