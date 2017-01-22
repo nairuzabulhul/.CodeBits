@@ -114,3 +114,79 @@
 
 - __Cascading termination:__ if a process terminates (either normally or abnormally), then all its children must also be terminated
 
+### Interprocess Communication:
+- Processes executing concurrently in the operating system may be either independent processes or cooperating processes.  
+- __A process is independent if it cannot affect or be affected by the other processes executing in the system__
+-  A process is cooperating if it can affect or be affected by the other processes executing in the system
+- Any process that shares data with other processes is a cooperating process.  
+
+- __There are several reasons for providing an environment that allows process cooperation:__ 
+
+	- __Information sharing:__
+	- __Computation speedup.__ If we want a particular task to run faster, we must break it into subtasks, each of which will be executing in parallel with the others.
+	- __Modularity.__ We may want to construct the system in a modular fashion, dividing the system functions into separate processes or threads
+
+	- __Convenience.__ Even an individual user may work on many tasks at the same time. 
+
+- __Interprocess communication (IPC)__ mechanism that will allow them to exchange data and information. 
+
+- __There are two fundamental models of interprocess communication__: 
+
+	- __Shared memory:__  a region of memory that is shared by cooperating processes is established. Processes can then exchange 
+			  information by reading and writing data to the shared region 
+
+	- __Message passing__ : communication takes place by means of messages exchanged 
+
+### Shared Memory Systems:
+
+-  Normally, the operating system tries to prevent one process from accessing another process's memory. 
+
+- Shared memory requires that two or more processes agree to remove this restriction. They can then excbange information by reading and writing data in the shared areas
+
+- A producer process produces information that is consumed by a consumer process. 
+
+- __There are two tyeps of buffers:__
+
+	- __Unbounded Buffer:__  no practical limit on the size of the buffer
+
+	- __Bounded Buffer:__ a fixed buffer size
+
+### Mesaage Passing:
+
+- __Two basic operations:__
+	- __send__(destination, message)  
+	- __receive__(source, message) 
+-  If processes wish to communicate, they need to establish a communication link between them  
+
+- __There are many variants of how send() and receive() behave :__
+
+- __Direct communication :__ Processes must name each other explicitly
+
+- __Indirect Communciation:__ Messages are sent and received to/from mailboxes 
+
+- __Synchronous communication :__
+
+	Also called synchronous message passing :
+	- sender waits until the receiver receives the message 
+	-  receiver waits until the sender sends the message 
+ 
+	- __Advantages:__ 
+		- inherently synchronizes the sender with the receiver 
+		- single copying sufficient
+	- __Disadvantages:__ 
+
+		- possible deadlock problem 
+
+- __Asynchronous Communication:__
+
+	- __Non-blocking send:__  the sender continues before the delivery of the message 
+
+	- __Non-blocking receive:__ check whether there is a message available, return immediately  
+
+- __Automatic or explicit buffering:__ 
+
+ 	- With blocking direct communication, no buffering is needed – the message stays in the sender’s buffer 
+	  until it is copied into the receiver’s buffer 
+
+	- With non-blocking communication, the sender might reuse the buffer 
+
