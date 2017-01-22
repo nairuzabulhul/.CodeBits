@@ -149,6 +149,7 @@
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
 
+- [How to land a top-notch tech internship — and a tech job — while you’re still in school] (https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.kfgnh52da)
 
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
