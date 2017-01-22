@@ -1,3 +1,5 @@
+![Log] (http://s.hswstatic.com/gif/computer-memory-pyramid.gif)
+
 ### Chapter 3: Process Concept
 ----------------------------------------------------------------
 - __Text Secton: program code__
