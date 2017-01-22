@@ -120,6 +120,12 @@
 ### Databases 
 
 - [100 Top Databases Questions](https://github.com/nairuzabulhul/.CodeBits/tree/master/Databases)
+
+
+### Linux OS:
+
+- [100 Common Linux Commands] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
+
   
 ### Interview prep courses:
 - InterviewBit
