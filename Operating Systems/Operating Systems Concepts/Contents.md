@@ -2,7 +2,7 @@
 ![Log] (https://images-na.ssl-images-amazon.com/images/I/51spVw9pGKL._SY344_BO1,204,203,200_.jpg)
 
 
-- [Chapter 1: Introduction] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Chapter1.md) 
+- [Chapter 1: Introduction] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Chapter1:%20Introduction.md) 
 
 - Chapter 2:
  
