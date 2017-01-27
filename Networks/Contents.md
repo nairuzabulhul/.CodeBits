@@ -14,4 +14,4 @@
 
 - [Intro to SSH Part 2: Installing OpenSSH-Server and Connecting to it] (https://www.youtube.com/watch?v=Xr3D-UsI1aA)
 
-- []
+- [What is Subnet mask ?] (https://www.youtube.com/watch?v=IDLrt-yppbI)
