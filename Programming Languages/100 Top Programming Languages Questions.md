@@ -1,7 +1,7 @@
 
 ### 100 Top Programming Languages Questions
 
-<img scr="http://creativeshory.com/wp-content/uploads/2014/01/programming-languages-1024x576.jpg" width="500">px
+<img scr="http://creativeshory.com/wp-content/uploads/2014/01/programming-languages-1024x576.jpg" width="500px">
 
 
 
