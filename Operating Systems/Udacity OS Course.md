@@ -205,6 +205,31 @@ __The down-side of microkernels__
 
 - __Cost__: interaction between different processes means there is a need  for frequent user/kernel transitions, which can get very costly
 
+##### Linux and Mac Architecture:
+__Starting with Linux Architecture,__ 
+<img scr="https://s28.postimg.org/mg7k5z7kd/os3.png" width="400px">
+
+- Starting at the bottom, we have hardware, and linux kernel abstracts and manages that hardware by supporting a number of abstractions and the associated mechanisms.
+
+- Then comes a number of standard libraries such as those that implement __System Call Interface__ 
+
+- Followed by a number of utility programs that make it easier for users and developers to interact with the operating system
+
+- Finally at the very top, you have the user developed applications
+
+- The kernel itself, consists of several logical components like __I/O management, memory management, process management__ that can be separately modifies to replaced
+
+__Mac Operating System Architecture :__
+<img src="https://s27.postimg.org/fclckcigj/os4.png">
+
+- Mac has a different organization, at the core is that Mac micro kernel, which implements key primitives like memory management, thread scheduling and interprocess communication mechanism including for what we call __RPC__
+
+- __BSD__ component provides Unix interoperability vias BSD command line interface, POSIX API __(Portable Operating System Interface [for Unix])__ support as well as network I/O
+
+- All application environment sits on the top the above layer.
+
+- At the bottom, there are two modules, they are the environments for development of drivers and also for kernel modules that can by dynamically loaded into .
+
 
 
 
