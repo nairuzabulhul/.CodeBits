@@ -1,5 +1,7 @@
 ###### Source : Udacity Operating Systems
 
+<img src="https://in.udacity.com/assets/images/partners/logo_color_udacity.png?v=c37f67d7" width="500px">
+
 ### P1L2: Introduction
 
 ##### Visual Metaphor
