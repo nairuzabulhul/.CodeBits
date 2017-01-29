@@ -100,6 +100,9 @@
 
 - [ Summary Notes of Operating systems Concepts ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Contents.md)
 
+- [Introduction on Operating Systems by Udacity]
+
+- [Notes on Introduction of Operating Systems by Udacity]
 
 ### Computer Security:
 
