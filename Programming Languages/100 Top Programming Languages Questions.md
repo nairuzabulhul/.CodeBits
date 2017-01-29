@@ -27,7 +27,7 @@ __Interpreter__:
 - reads the code statements line by line
 - Faster to analyze source code 
 - Slower in execution
-- Debugger is easier with interpreted languages, as they go line by line and they stop once they hit an error.
+- Debugging is easier with interpreted languages, as they go line by line and they stop once they hit an error.
 
 Exs: __Python,Ruby, PHP, JavaScript__
 
