@@ -4,10 +4,6 @@
 <img src="http://creativeshory.com/wp-content/uploads/2014/01/programming-languages-1024x576.jpg" width="500px">
 
 
-
-### 100 Top Programming Languages Questions
-
-
 #### 1- What is Functional Language?
 It is a approach that treats every computation as a mathematical function. The output of the function relies on what input was given for the function, and do not depend on series of steps that precede the function.
 
