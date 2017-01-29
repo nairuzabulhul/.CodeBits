@@ -11,8 +11,10 @@ Functional programming relies heavily on __recursion__. The difference between r
 
 Examples : __Erlang, Haskell, Lisp, Scala__
 
+
 #### 2-  What is Declarative Language?
 Declarative programming is when you write your code in such a way that it describes what you want to do, and not how you want to do it. It is left up to the compiler to figure out the how. Examples of declarative programming languages are __SQL,Prolog, and HTML__
+
 
 
 ####  3- What is Rule-based Languages?  ?  
@@ -21,10 +23,25 @@ Declarative programming is when you write your code in such a way that it descri
 
 #### 4)What is the difference between compilers and interpreters?
 
+__Interpreter__: 
+- reads the code statements line by line
+- Faster to analyze source code 
+- Slower in execution
+- Debugger is easier with interpreted languages, as they go line by line and they stop once they hit an error.
 
+Exs: __Python,Ruby, PHP, JavaScript__
+
+__Compiler__:
+- reads the whole source code at once. The entire program is being translated into machine code.
+- Faster in execution
+- Slower in analyzing source code
+- Debugging is a lot harder than interpreted languages as the whole source code has to load in order to find the bug (which is time consuming )
+Exs: __C, C++,Java__
 
 
 #### 5) What is a binary file ?
+
+
 
 #### 6) What is procedural Language?
 It is a language that tells the computer what to do step by step. It relies on procedures known as routines.
@@ -34,6 +51,7 @@ __A procedure__ consists of multiple series of computation. Procedural programmi
 A procedural programming is very intuitive, as it runs as the programmer expect.Example of procedural languages __Fortan, C__
 
 A common technique in procedural programming is to use iteration, means that you write a set of steps, and you tell the computer to repeat for certain number of times
+
 
 #### 7- What is Metaprogramming ?
  __Meta programming__  allows programs  to create method fast  
