@@ -19,7 +19,7 @@ __What is an operating systems and what its role in computer systems?__
 ##### OS roles and functionalities:
 - __Operating systems hide the complexity of the hardware from the applications as well as the application developers__
 
-- Operating systems manage a higher level of abstraction. For example, when you are writing to a flle, you do not want to worry about the low level of computation, as the operating system takes care of it. ALso, when surfing the internet. the user do not want to be bothered by the packets needed to be sent in order to access the webpage. All this should be handled by the Operating system
+-Operating systems manage a higher level of abstraction. For example, when you are writing to a flle, you do not want to worry about the low level of computation, as the operating system takes care of it. ALso, when surfing the internet. the user do not want to be bothered by the packets needed to be sent in order to access the webpage. All this should be handled by the Operating system
 -
 - In networks the operating system abstract the low level  layer of networks into a form of sockets, which provides some services as of sending and receiving packets
 
