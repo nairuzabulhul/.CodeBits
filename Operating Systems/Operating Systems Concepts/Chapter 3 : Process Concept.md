@@ -27,6 +27,8 @@
 
 ###  Process Control Block 
 
+__Definition__is a data structure in the operating system kernel containing the information needed to manage a particular process.
+
 - __Process Control Block:__  It contains many pieces of information associated with a specific process
 
 - __Process state__. The state may be new, ready runnil•g, waiting, halted, and so on. 
