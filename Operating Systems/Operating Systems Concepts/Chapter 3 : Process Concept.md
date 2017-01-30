@@ -220,6 +220,18 @@ The UNIX/Linux pipes allows linking of processes to obtain complex functions fro
  -  Stubs – client and server – side proxies implementing the needed communication 
  -  The client-side stub locates the server and marshalls the parameters. 
  - The server-side stub receives this message, unpacks the marshalled parameters, and performs the procedure on the server.
+ 
+ 
+ #### Key terms :
+- PCB process Central Block
+- Process Scheduling -- __Queues__
+- Process Switching 
+- Diagram of process status
+- Short term Scheduler is faster than the longer term
+- __Pointer__
+- I/O Bound Processes
+- CPU processes 
+- Context Switching what and how ? -- comments
 
 
 
