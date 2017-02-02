@@ -56,8 +56,19 @@ COMMA NUMBER:3 COMMA NUMBER:5 COMMA NUMBER:6 RPAREN
 Active lexing:is scanning 
 
 
+__Feb,02,2017__
+
+__[+ -]__ ? --> ? mean options, positive and negative numbers
+__\d +__ --> for digits , one or more
+__"*"__---> 0 or 1
+__"\ \ "__ means that all characters, or numbers
+__"\.\d*"__ means all numbers from 0 to any
 
 
+####### Assignment :
 
+- Lexer
+- Parser
+- Interpreter
 
 
