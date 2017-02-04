@@ -102,7 +102,7 @@
 
 - [Introduction on Operating Systems by Udacity Georgia Tech] (https://www.udacity.com/course/introduction-to-operating-systems--ud923)      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Udacity%20OS%20Course.md)
+- [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md)
 
 ### Computer Security:
 
