@@ -200,5 +200,5 @@ Instead, the operating system place the child's image. It will load a new progra
 
 - In particular, the program counter for the child will now point to the first instruction of the new program.Now, the behavior of actually creating a new program.
 
-_ More examples, when you call a fork, the fork creates the initial process, And then you call an exec, which replaces the child's image,the image that was created in the fork, with the image of this new program.
+- More examples, when you call a fork, the fork creates the initial process, And then you call an exec, which replaces the child's image,the image that was created in the fork, with the image of this new program.
 
