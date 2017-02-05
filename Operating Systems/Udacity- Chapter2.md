@@ -102,7 +102,8 @@ __How does the OS know what a process is doing ?__
 - The operating system's hob to collect to save all the inforamtion that CPU maintains for a process, and to store it in the Process Control Block structure whenever that particular process is no longer running on the CPU.
 
 #### What is a PCB Used?
-<img src="https://s29.postimg.org/oirp7ix7b/image.png" width=""300px>
+
+<img src="https://s29.postimg.org/oirp7ix7b/image.png" width="300px">
 
 - Let's assume the operating system manages two processes, __P1 and P2__.It has already created them and their Process Control Blocks, and these Process Control Blocks are stored somewhere in memory.
 
