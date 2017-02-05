@@ -203,3 +203,63 @@ Instead, the operating system place the child's image. It will load a new progra
 
 - More examples, when you call a fork, the fork creates the initial process, And then you call an exec, which replaces the child's image,the image that was created in the fork, with the image of this new program.
 
+
+__QUIZ:__
+
+<img src="https://s24.postimg.org/hlppweq2d/ps5.png" width="300px">
+
+#### Role of the CPU Scheduler:
+
+- For the CPU to start executing a process, the process must be ready first. however, there will be multiple ready processes waiting in the ready queue.
+
+- __How do we pick what is the right process that should be given the CPU next,__ that should be __scheduled on the CPU?__
+
+- The __CPU scheduler__  is an operating system component that manages how processes use the CPU resources.It decides which one of the currently ready processes will be dispatched to the CPU so that it can start running, start using the CPU.And it also determines how long this process should be allowed to run for.
+
+- Over time this means that in order to manage the CPU,
+the operating system must be able to __preempt to interrupt the executing process and save its current context.This operation is called preemption.__
+
+- Then the operating system must run the __scheduling algorithm,in order to choose one of the ready processes that should be run next.__
+
+- And finally, once the process is chosen, the OS must __dispatch this process on to the CPU and switch into its context so that process can finally start executing.__
+
+#### What about I/O?
+
+<img src="https://s29.postimg.org/va8plt047/ps6.png" width="450px">
+
+- In this diagram, imagine a process had made an I/O request. The operating system delivered that request.For instance, it was a read request to disk.and then plays the process on the I/O queue that's associated with that
+particular disk device.
+
+- So the process is now waiting in the I/O queue.The process will remain waiting in the queue until the device completes the operations, so the I/O event is complete, and responds to that particular request.
+
+- So once the I/O request is met, the process is ready to run again, and depending on the current load in the system, it may be placed in the ready queue, or it may be actually scheduled on the CPU if there's nothing else waiting in the ready queue before it.
+
+#### Inter Process Communication 
+
+- Here's an example of a web application consisting of
+two processes on the same machine. The first one is the web server,the front-end, that accepts the customer request. And the second one is the backend,the database that stores customer profiles and other information.
+
+__How may these processes interact?__
+
+- The of mechanisms for interacting between processes are called __inter-process communication__ or we refer to them as IPC.
+
+- __The IPC mechanisms__ help __transfer data and information from one address space to another, while continuing to maintain the protection and isolation that operating systems are trying to enforce.__
+
+- IPC mechanisms need to provide flexibility as well as clearly performance.
+
+- One mechanism that operating systems support is __message passing IPC.__ The operating system establishes a communication channel, is like a shared buffer for instance, and the processes interact with it by writing or sending a message into that buffer, Or, reading or receiving a message from that shared communication channel.
+
+- So, it's message passing because every process has to put the information that it wants to send to the other process, explicitly in a message and then to send it to this dedicated communication channel.
+
+- __The benefits of this approach__ is that it's really the operating system who will manage this channel, and it's the operating system that provides the exact same APIs, the exact same system calls for writing or sending data, and the reading or receiving data from this communication channel.
+
+- __The downside is the overhead.__ Every single piece of information that we want to pass between these two processes we have to copy from the user space of the first process into this channel that's sitting in the OS, in the kernel memory.And then back into the address space of the second process.
+
+- __The other type of IPC mechanism is what we call shared memory IPC.__ The way this works is the operating system establishes the shared memory channel, and then it maps it into the address space of both processes.
+
+- The processes are then allowed to directly read and write from this memory, as if they would to any memory location that's part of their virtual address space.So the operating system is completely out of the way in this case.
+
+- __the main advantage of this type of IPC.__ That the operating system is not in the fast path of the communication.So the processes, while they're communicating are not going to incur any kind of overheads from the operating system.
+
+- __The disadvantage of this approach__ is because the operating system is out of the way it no longer supports fixed and well defined APIs how this particular shared memory region is used. For that reason, its usage sometimes becomes more error prone, or developers simply have to re-implement code to use this shared memory region in a correct way.
+
