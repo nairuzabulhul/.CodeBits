@@ -204,6 +204,7 @@ Instead, the operating system place the child's image. It will load a new progra
 - More examples, when you call a fork, the fork creates the initial process, And then you call an exec, which replaces the child's image,the image that was created in the fork, with the image of this new program.
 
 
+
 __QUIZ:__
 
 <img src="https://s24.postimg.org/hlppweq2d/ps5.png" width="300px">
@@ -247,6 +248,8 @@ __How may these processes interact?__
 
 - IPC mechanisms need to provide flexibility as well as clearly performance.
 
+<img src="https://s27.postimg.org/495bku1ir/ps7.png" width="300px">
+
 - One mechanism that operating systems support is __message passing IPC.__ The operating system establishes a communication channel, is like a shared buffer for instance, and the processes interact with it by writing or sending a message into that buffer, Or, reading or receiving a message from that shared communication channel.
 
 - So, it's message passing because every process has to put the information that it wants to send to the other process, explicitly in a message and then to send it to this dedicated communication channel.
@@ -255,6 +258,7 @@ __How may these processes interact?__
 
 - __The downside is the overhead.__ Every single piece of information that we want to pass between these two processes we have to copy from the user space of the first process into this channel that's sitting in the OS, in the kernel memory.And then back into the address space of the second process.
 
+<img src="https://s29.postimg.org/53lpem4sn/ps8.png" width="300px">
 - __The other type of IPC mechanism is what we call shared memory IPC.__ The way this works is the operating system establishes the shared memory channel, and then it maps it into the address space of both processes.
 
 - The processes are then allowed to directly read and write from this memory, as if they would to any memory location that's part of their virtual address space.So the operating system is completely out of the way in this case.
