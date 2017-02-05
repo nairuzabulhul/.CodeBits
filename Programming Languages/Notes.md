@@ -73,7 +73,7 @@ __"\.\d*"__ means all numbers from 0 to any
 
 
 
-#### Feb, 06
+## Feb, 06
 
 #### Notes on How Parsers and Compilers Work
 
