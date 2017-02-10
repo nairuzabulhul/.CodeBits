@@ -267,3 +267,11 @@ __How may these processes interact?__
 
 - __The disadvantage of this approach__ is because the operating system is out of the way it no longer supports fixed and well defined APIs how this particular shared memory region is used. For that reason, its usage sometimes becomes more error prone, or developers simply have to re-implement code to use this shared memory region in a correct way.
 
+
+#### KeyWords (REVIEW):
+__Direct Communication__
+__Indirect communication__
+__Sycnchronouns (Block)vs Asynchrnous (Non-blocking)___
+__Automatic or explicit Buffering__
+__Pipe__ __Unix__ __Piper__
+__Unidirectional Pipe__ __Bidirectional Pipe__
