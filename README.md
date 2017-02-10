@@ -295,6 +295,13 @@
 
 - [C programming Tutorials by NewBoston ] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 
+- [Computer Systems programming in C by q Liu] (https://www.youtube.com/playlist?list=PLPXsMt57rLtjNzxZBDg9xJB7KT83WStBO)
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                     
+
 #### Networking & Security Resources:
 
 - [Cybrary] (https://www.cybrary.it/)   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
