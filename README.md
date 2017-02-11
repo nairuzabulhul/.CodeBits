@@ -303,7 +303,7 @@
                                          <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
                                       
                                       
-- [C Programming in Linux Tutorial] (https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
+- [C Programming in Linux Tutorial by ShellWaveX] (https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 
 #### Networking & Security Resources:
 
