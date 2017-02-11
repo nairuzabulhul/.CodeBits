@@ -27,7 +27,7 @@
 - Backtracking:
 - Dynamic Programming
 
-### Books in Algorithms & General Computer Science Topics
+### Books & Videos in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    
@@ -77,6 +77,8 @@
  
 - [Harvard University's  CSC50 Videos] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Harvard%20University's%20Videos.md)
    
+- [Technical Interview Preparation & Questions by q Liu] (https://www.youtube.com/playlist?list=PLPXsMt57rLtj6r4FEXpLfRDhLGtktyQ-2)
+
 
 ### General Alrogrithm Interview Questions:
 
