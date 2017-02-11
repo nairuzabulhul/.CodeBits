@@ -146,7 +146,7 @@
 
 
 ### Great Online Advice:
-#### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
+##### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews by Hasseeb Qureshi] (http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -203,9 +203,11 @@
 
 - [Interview by Andreis - GitHub] (https://github.com/andreis/interview)
 
-### Online Courses:
 
-#### Python :
+
+## Online Courses:
+
+### Python :
 
   - [Import Python] (http://importpython.com/books/) - A collection of Python books from novice to expert <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -256,7 +258,7 @@
   
   
   
-#### JavaScript :
+### JavaScript :
 
 - [Free Code Camp ] (https://www.freecodecamp.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -293,7 +295,7 @@
                                                                       
                                                                        
 
-#### C Programming:
+### C Programming:
 
 - [C programming Tutorials by NewBoston ] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 
@@ -307,7 +309,17 @@
                                       
 - [C Programming in Linux Tutorial by ShellWaveX] (https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 
-#### Networking & Security Resources:
+
+### Git Commands
+
+- [Basic Git Commands] (https://github.com/quinnliu/gitCommands)
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+
+### Networking & Security Resources:
 
 - [Cybrary] (https://www.cybrary.it/)   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -327,7 +339,7 @@
                                          <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                                             
 
 
-#### Youtube Channels:
+### Youtube Channels:
 
 - [New Boston] (https://www.youtube.com/user/thenewboston)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -364,7 +376,7 @@
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                
                                                              
-#### Extra Resources
+### Extra Resources
 
 - [TalkPython] (https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
