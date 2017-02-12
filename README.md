@@ -113,8 +113,7 @@
 
 - Volume I : 
 
-- Volume II: [The Complete Cyber Security Course by Nathan House] (https://www.udemy.com/network-security-course/)  
-                  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- Volume II: [The Complete Cyber Security Course by Nathan House] (https://www.udemy.com/network-security-course/)   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
