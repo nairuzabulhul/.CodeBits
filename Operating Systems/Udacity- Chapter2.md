@@ -270,8 +270,13 @@ __How may these processes interact?__
 
 #### KeyWords (REVIEW):
 __Direct Communication__
+
 __Indirect communication__
+
 __Sycnchronouns (Block)vs Asynchrnous (Non-blocking)___
+
 __Automatic or explicit Buffering__
+
 __Pipe__ __Unix__ __Piper__
+
 __Unidirectional Pipe__ __Bidirectional Pipe__
