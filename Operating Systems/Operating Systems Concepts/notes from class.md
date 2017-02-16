@@ -48,11 +48,18 @@ __KeyWords (REVIEW):__
 
 - __Multithreading Models__
 
-- __Many to one model__
+- __Many to one model__ : 
+
+- __One_to_One model__ : 
+
+- __Many to Many model__
 
 - Multithreading
 
-- 
+- Switching between processors vs threads, it is cheaper and faster to switch between threads than between processors.
+
+- Difference between user threads and kernel threads
+
 
 
 
