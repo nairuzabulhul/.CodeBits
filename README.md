@@ -79,6 +79,10 @@
    
 - [Technical Interview Preparation & Questions by q Liu] (https://www.youtube.com/playlist?list=PLPXsMt57rLtj6r4FEXpLfRDhLGtktyQ-2)
 
+- [Algorithms and Data Structures in Python by  Holczer Balazs] (https://www.udemy.com/algorithms-and-data-structures-in-python/)
+
+- [Ace Your Coding Interview & Land Your Dream Programming Job by  Brian Jordan] (https://www.udemy.com/programming-code-interview/)
+
 
 ### General Alrogrithm Interview Questions:
 
