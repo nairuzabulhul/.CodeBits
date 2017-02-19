@@ -1,7 +1,7 @@
 
 ## List of resources@2017
 ```diff
-+ List of resources for Algorithms and Data Structures in Python & other CS topics @2017
++  List of resources for Algorithms and Data Structures in Python & other CS topics @2017
 ```
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
