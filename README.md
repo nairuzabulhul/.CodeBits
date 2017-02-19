@@ -308,6 +308,11 @@
 ### C Programming:
 
 - [C programming Tutorials by NewBoston ] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 - [Computer Systems programming in C by q Liu] (https://www.youtube.com/playlist?list=PLPXsMt57rLtjNzxZBDg9xJB7KT83WStBO)
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -315,9 +320,20 @@
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                          <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
-                                      
+   
                                       
 - [C Programming in Linux Tutorial by ShellWaveX] (https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
+
+- [C Programming Tutorials by the Bad Tutorials ] (https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+
+- [C Programming DIY : Do it yourself by  Gayatri TR]  (https://www.udemy.com/learn-c-through-programming/) projects 2 
+
+- [C Programming For Beginners] (https://www.udemy.com/c-programming-for-beginners/) 1
+
+- [From 0 to 1: C Programming - Drill Deep](https://www.udemy.com/from-0-to-1-c-programming/) concepts
+
+- [C Programming - Complete Tutorial For Beginners] (https://www.udemy.com/c-for-technical-interview/) 3
+
 
 
 ### Git Commands
