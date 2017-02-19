@@ -2,11 +2,7 @@
 ## List of resources@2017
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-<span style="color:orange;">Word up</span>
+<a><img src="https://github.com/nairuzabulhul/.CodeBits/blob/master/color.svg"/></a>
 
 ### I was inspired by [@googleasheck] (https://twitter.com/googleyasheck) - [Google Interview University] (https://github.com/jwasham/google-interview-university) to create my own list of resources <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
