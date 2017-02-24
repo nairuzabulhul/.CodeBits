@@ -62,4 +62,29 @@ __KeyWords (REVIEW):__
 
 
 
+Feb 23, 2017 Threads
 
+__What is preemptive scheduling of the CPU ?__
+
+- CPU short term scheduler 
+- Preemptive scheduling
+- Dispatcher is the short term scheduler
+- Scheduling Criteria :
+    - Resource Utilization
+    - Response time on time-shared system
+    - Throughput : how many jobs are going to be exectuted        in one CPU cycle
+    - On batch systems
+    - On heavily loaded system
+    - Scheduling Critieria Example (charts for the average)
+    - Throupuht 4/24
+    - Turnaround time : the time when the job is submitted()
+    - __Calculation is important__
+    - Algorithms for scheduling CPU
+    - First comes first serves (Convey Effect)
+    - Shortest Job First 
+    - If the arrival time is the same as the burst time, pick the       first one 
+    - If two Burst times are equal, look at the arrival time and        pick the one that has the shortest time  
+    - Starvation is a job with long CPU burst 
+    - Priority Scheduling: Advatages and Disadvantaging 
+    - Round Robin Algorithm 
+    - 
