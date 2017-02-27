@@ -78,6 +78,7 @@ __What is preemptive scheduling of the CPU ?__
     - Scheduling Critieria Example (charts for the average)
     - Throupuht 4/24
     - Turnaround time : the time when the job is submitted()
+   
     - __Calculation is important__
     - Algorithms for scheduling CPU
     - First comes first serves (Convey Effect)
@@ -86,5 +87,10 @@ __What is preemptive scheduling of the CPU ?__
     - If two Burst times are equal, look at the arrival time and        pick the one that has the shortest time  
     - Starvation is a job with long CPU burst 
     - Priority Scheduling: Advatages and Disadvantaging 
-    - Round Robin Algorithm 
-    - 
+    - Round Robin Algorithm divide the job into slices, and serve them based on priotity 
+    - Priority Scheduler
+   
+ Feb 27, 2017
+ 
+ - Bust time: the time is required by the CPU
+ - 
