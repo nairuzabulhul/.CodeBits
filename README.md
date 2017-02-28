@@ -6,7 +6,7 @@
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
 
-### I was inspired by [@googleasheck] (https://twitter.com/googleyasheck) - [Google Interview University] (https://github.com/jwasham/google-interview-university) to create my own list of resources <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+### I was inspired by [@googleasheck] (https://twitter.com/googleyasheck) - [Coding Interview University] (https://github.com/jwasham/google-interview-university) to create my own list of resources <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
