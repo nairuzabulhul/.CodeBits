@@ -358,6 +358,9 @@
 
 - [C Programming - Complete Tutorial For Beginners] (https://www.udemy.com/c-for-technical-interview/) 3
 
+- [List of C Practice Programs by Crazy Programmer] (http://www.thecrazyprogrammer.com/c-programs) 
+  
+
 
 
 ### Git Commands
