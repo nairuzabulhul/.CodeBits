@@ -111,6 +111,8 @@
 
 ### Operating Systems:
 
+<img src="https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-78627.png" width="150px">
+
 - [100 Top Operating Systems Questions] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/100%20Top%20OS%20Questions.md)
 
 - [Operating System Concepts 8th Edition by Abraham Silberschatz] (https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720)
