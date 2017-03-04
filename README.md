@@ -121,6 +121,8 @@
 
 - [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md)
 
+- [Operating Systems by Gate Lectures by Ravindrababu Ravula] (https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
+
 ### Computer Security:
 
 - [100 Top Computer Security Questions and Asnwers] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
