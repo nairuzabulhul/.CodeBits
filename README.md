@@ -122,7 +122,7 @@
 
 - [ Summary Notes of Operating systems Concepts ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Contents.md)
 
-- [Introduction on Operating Systems by Udacity Georgia Tech] (https://www.udacity.com/course/introduction-to-operating-systems--ud923)   __Basic Level__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+- [Introduction on Operating Systems by Udacity Georgia Tech] (https://www.udacity.com/course/introduction-to-operating-systems--ud923)   __ -- >Basic Level__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
 
 - [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) 
 
