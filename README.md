@@ -85,10 +85,10 @@
 
 - [Ace Your Coding Interview & Land Your Dream Programming Job by  Brian Jordan] (https://www.udemy.com/programming-code-interview/)
 
-- [A list of 370 Free Online Programming & Computer Science Courses ] (https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) -- >  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [A list of 370 Free Online Programming & Computer Science Courses by freeCodeCamp ] (https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) -- >  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> __Five stars for compiles a huge list of FREE courses__
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> __Five stars for compiling a huge list of FREE courses__
 
 
 ### General Alrogrithm Interview Questions:
@@ -124,7 +124,7 @@
 
 - [Introduction on Operating Systems by Udacity Georgia Tech] (https://www.udacity.com/course/introduction-to-operating-systems--ud923)      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md)
+- [Notes on Introduction of Operating Systems by Udacity] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) -- > __Basic Level__  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula] (https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 
