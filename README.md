@@ -6,7 +6,7 @@
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
 
-### I was inspired by [@googleasheck] (https://twitter.com/googleyasheck) - [Coding Interview University] (https://github.com/jwasham/google-interview-university) to create my own list of resources <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+### I was inspired by [@googleasheck](https://twitter.com/googleyasheck) - [Coding Interview University] (https://github.com/jwasham/google-interview-university) to create my own list of resources <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
@@ -16,15 +16,15 @@
 
 ### Algorithms and Data Structures by topic:
 
-- [Big O Notation] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Big-O-Notation/Contents.md)
-- [Arrays] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Arrays/Contents.md) 
-- [Linked List ] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
-- [Stacks and Queues] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Stacks-and-Queues/Contents.md) 
-- [Hash Tables] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Hash-Tables/Contents.md)
-- [Recusrion] (https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
-- [ Trees ] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/Contents.md)
-- [Graphs] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Graphs/Contents.md)
-- [Sorting] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Contents.md)
+- [Big O Notation](https://github.com/nairuzabulhul/.CodeBits/blob/master/Big-O-Notation/Contents.md)
+- [Arrays](https://github.com/nairuzabulhul/.CodeBits/blob/master/Arrays/Contents.md) 
+- [Linked List ](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Linked-List/Contents.md)
+- [Stacks and Queues](https://github.com/nairuzabulhul/.CodeBits/blob/master/Stacks-and-Queues/Contents.md) 
+- [Hash Tables](https://github.com/nairuzabulhul/.CodeBits/blob/master/Hash-Tables/Contents.md)
+- [Recusrion](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/Recursion/Contents.md)
+- [ Trees ](https://github.com/nairuzabulhul/.CodeBits/blob/master/Trees/Contents.md)
+- [Graphs](https://github.com/nairuzabulhul/.CodeBits/blob/master/Graphs/Contents.md)
+- [Sorting](https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Contents.md)
 - Backtracking:
 - Dynamic Programming
 
