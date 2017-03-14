@@ -178,7 +178,7 @@
 
 ### Linux OS:
 
-- [100 Common Linux Commands] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
+- [100 Common Linux Commands](https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
 
   
 ### Interview prep courses:
