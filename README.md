@@ -31,26 +31,27 @@
 
 ### Books & Videos in Algorithms & General Computer Science Topics
 
-   - [Grokking Algorithm] (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
+   - [Grokking Algorithm](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
    
-   - [Problem Solving with Algorithms and Data Structures using Python]           (http://interactivepython.org/courselib/static/pythonds/index.html)
-   - [Free Code Camp] (https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [Problem Solving with Algorithms and Data Structures using Python]( http://interactivepython.org/courselib/static/pythonds/index.html)
+   
+   - [Free Code Camp](https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
                     
-   - [Cracking the Code Interview] (https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
+   - [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
    
-   - [Programming Interviews Exposed] (https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
+   - [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
    
-   - [Python for Data Structure, Algorithms and Interviews] (https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
+   - [Python for Data Structure, Algorithms and Interviews](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                             
                                                              
-   - [Google Interview University] (https://github.com/jwasham/google-interview-university)
+   - [Google Interview University](https://github.com/jwasham/google-interview-university)
                                                                <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -59,33 +60,33 @@
                                                              
    - Think Like a Programmer: An Introduction to Creative Problem Solving
    
-   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/)<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
    
    - The Linux Command Line: A Complete Introduction 
    
-   - [Algorithms and Data Structure by btechsmart class] (http://btechsmartclass.com/DS/U1_T1.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [Algorithms and Data Structure by btechsmart class](http://btechsmartclass.com/DS/U1_T1.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
    
-   - [The Technical Interview Cheat Sheet by TSiege] (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+   - [The Technical Interview Cheat Sheet by TSiege](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
    
-   - [LeetCode Solutions in Python, Java and C++ ] (https://github.com/kamyu104/LeetCode)
+   - [LeetCode Solutions in Python, Java and C++ ](https://github.com/kamyu104/LeetCode)
    
-   - [HackerRank -- Algorithms and Date Structures by Gayle Laakmann McDowell ] (https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [HackerRank -- Algorithms and Date Structures by Gayle Laakmann McDowell ](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
  
-- [Sorting Algorithms by Techilageek] (http://techilageek.com/category/algorithms/)
+- [Sorting Algorithms by Techilageek](http://techilageek.com/category/algorithms/)
  
-- [Harvard University's  CSC50 Videos] (https://github.com/nairuzabulhul/.CodeBits/blob/master/Harvard%20University's%20Videos.md)
+- [Harvard University's  CSC50 Videos](https://github.com/nairuzabulhul/.CodeBits/blob/master/Harvard%20University's%20Videos.md)
    
-- [Technical Interview Preparation & Questions by q Liu] (https://www.youtube.com/playlist?list=PLPXsMt57rLtj6r4FEXpLfRDhLGtktyQ-2)
+- [Technical Interview Preparation & Questions by q Liu](https://www.youtube.com/playlist?list=PLPXsMt57rLtj6r4FEXpLfRDhLGtktyQ-2)
 
-- [Algorithms and Data Structures in Python by  Holczer Balazs] (https://www.udemy.com/algorithms-and-data-structures-in-python/)
+- [Algorithms and Data Structures in Python by  Holczer Balazs](https://www.udemy.com/algorithms-and-data-structures-in-python/)
 
-- [Ace Your Coding Interview & Land Your Dream Programming Job by  Brian Jordan] (https://www.udemy.com/programming-code-interview/)
+- [Ace Your Coding Interview & Land Your Dream Programming Job by  Brian Jordan](https://www.udemy.com/programming-code-interview/)
 
-- [A list of 370 Free Online Programming & Computer Science Courses by freeCodeCamp ] (https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) -- >  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [A list of 370 Free Online Programming & Computer Science Courses by freeCodeCamp ](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) -- >  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> __Five stars for compiling a huge list of FREE courses__
