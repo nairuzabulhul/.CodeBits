@@ -174,14 +174,30 @@
                     
 - [Cybersecurity Fundamentals by University of Marlyand (Coursera)](https://www.coursera.org/specializations/cyber-security)
 
+
+
+
 ### Databases 
 
 - [100 Top Databases Questions](https://github.com/nairuzabulhul/.CodeBits/tree/master/Databases)
 
 
+
+### Programming Languages Design [Compilers and Interpreters]
+- [Let’s Build A Simple Interpreter by Ruslan Blog](https://ruslanspivak.com/lsbasi-part1/) __Simple Python Interpreter__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+
+
+
 ### Linux OS:
 
 - [100 Common Linux Commands](https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
+
+
+
 
   
 ### Interview prep courses:
