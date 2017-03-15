@@ -133,6 +133,8 @@
 
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 
+- [Operating System Playlist by Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+
 
 ### Computer Security:
 
