@@ -292,6 +292,14 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Interview by Andreis - GitHub](https://github.com/andreis/interview)
 
+- [Going from Beginner to Pro as a Developer](https://www.youtube.com/watch?v=HXfa8EY3WeE)
+
+- [Importance of Sorting Algorithms](https://www.youtube.com/watch?v=hOkPg3rXt34)
+
+- [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA)
+
+- [Learn How to Code: Guide to Memorization](https://www.youtube.com/watch?v=M4tfWxXx4ts&index=28&list=PLgYiyoyNPrv_SBqseugANFpZsgw7hMbZN)
+
 
 
 ## Online Courses:
