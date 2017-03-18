@@ -29,6 +29,25 @@
 - Dynamic Programming
 
 
+
+### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ)
+
+__Rule #1 Understand the problem__ 
+
+__Rule #2 Solve the problem Manually__ 
+
+__Rule #3 Write the steps in Pseudo-code__
+
+__Rule #4 Trasnlate the Pseudo-code into actual__
+
+__Rule #5 Test the program with small input__
+__
+__Rule #6 Test the program with large input__
+
+__Rule #7 Break the program by inserting invalid inputs to get edge cases__
+
+ 
+
 ### Books & Videos in Algorithms & General Computer Science Topics
 
    - [Grokking Algorithm](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) Python
