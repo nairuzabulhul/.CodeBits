@@ -30,7 +30,7 @@
 
 
 
-### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ)
+### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 __Rule #1 Understand the problem__ 
 
@@ -274,6 +274,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                    
 - [How to Work at Google: Example Coding/Engineering Interview](https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
 
 - [Applying to Google: How to Ace the Engineering and Technical Interview](https://www.youtube.com/watch?v=55aEVvITNJ0)
@@ -292,11 +293,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Interview by Andreis - GitHub](https://github.com/andreis/interview)
 
-- [Going from Beginner to Pro as a Developer](https://www.youtube.com/watch?v=HXfa8EY3WeE)
+- [Going from Beginner to Pro as a Developer](https://www.youtube.com/watch?v=HXfa8EY3WeE) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Importance of Sorting Algorithms](https://www.youtube.com/watch?v=hOkPg3rXt34)
+- [Importance of Sorting Algorithms](https://www.youtube.com/watch?v=hOkPg3rXt34) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA)
+- [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA) __Basic Rules to approach Coding Problems__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 - [Learn How to Code: Guide to Memorization](https://www.youtube.com/watch?v=M4tfWxXx4ts&index=28&list=PLgYiyoyNPrv_SBqseugANFpZsgw7hMbZN)
 
