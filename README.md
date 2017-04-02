@@ -532,6 +532,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Linux Academy](https://linuxacademy.com/)
 
 
+- [Plural Sight](https://www.pluralsight.com)
+
+
 
 ### E-Books __A collection of free e-books__
 
