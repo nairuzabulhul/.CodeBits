@@ -535,6 +535,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Plural Sight](https://www.pluralsight.com)
 
 
+- [Real Python](https://realpython.com/)
+
+
 
 ### E-Books __A collection of free e-books__
 
