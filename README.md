@@ -111,7 +111,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   __Five stars for compiling a huge list of FREE courses__
 
 
-
+- [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 
 ### General Alrogrithm Interview Questions:
 
