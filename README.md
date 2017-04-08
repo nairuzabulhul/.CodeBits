@@ -153,7 +153,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
 
 
-- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp)
+- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ### Computer Security:
