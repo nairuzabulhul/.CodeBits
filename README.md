@@ -360,7 +360,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                  
   
-  
+  - [Python for Security](https://www.udemy.com/python-for-offensive-security-practical-course/?start=0)
   
 ### JavaScript :
 
