@@ -541,6 +541,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Real Python](https://realpython.com/)
 
+- [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__
+
 
 
 ### E-Books __A collection of free e-books__
