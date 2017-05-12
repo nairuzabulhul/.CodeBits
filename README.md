@@ -501,7 +501,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                              
 ### Extra Resources
 
-- [TalkPython](https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [TalkPython](https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
