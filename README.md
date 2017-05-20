@@ -541,6 +541,13 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Real Python](https://realpython.com/)
 
+
+- [How to Geek](https://www.howtogeek.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+
 - [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
