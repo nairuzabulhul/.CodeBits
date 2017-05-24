@@ -137,6 +137,13 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Wireshark  by HAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)  -->__Basic Level__<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
+- [Python Network Programming - Part 1: Build 7 Python Apps](https://www.udemy.com/python-programming-for-real-life-networking-use/)
+
+- [Python Network Programming - Part 2: Multivendor Environment](https://www.udemy.com/python-network-programming-multivendor/)
+
+- [Python Network Programming - Part 3: Scapy & Security Tools](https://www.udemy.com/python-scapy/)
+
+
 
 ### Operating Systems:
 
@@ -237,6 +244,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     
 - [HackerRank](https://www.hackerrank.com/)
+
+
+- [Geek For Geek](http://www.geeksforgeeks.org/)
 
 
 ### Great Online Advice:
@@ -549,11 +559,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Real Python](https://realpython.com/)
 
 
-- [How to Geek](https://www.howtogeek.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Udacity](https://www.udacity.com/)
 
 - [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
@@ -563,6 +569,30 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Tree House](https://teamtreehouse.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
 <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
+
+
+### Best Tech Websites & Blogs :
+
+- [The Geek Stuff](http://www.thegeekstuff.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+
+- [Binary Tides](http://www.binarytides.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+
+- [How to Geek](https://www.howtogeek.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                              
+ 
+
 
 
 ### E-Books __A collection of free e-books__
