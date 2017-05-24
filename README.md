@@ -459,7 +459,14 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                                             
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+                                         
+
+- [Learning Shell Scripting](https://www.lynda.com/Bash-tutorials/Up-Running-Bash-Scripting/142989-2.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ### Youtube Channels:
