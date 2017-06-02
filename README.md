@@ -205,6 +205,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     
 - [Cybersecurity Fundamentals by University of Marlyand (Coursera)](https://www.coursera.org/specializations/cyber-security)
 
+- [Penetration Tester Career Plan](https://www.packtpub.com/mapt/skill-plans/system-administrator/penetration-tester)
 
 
 
