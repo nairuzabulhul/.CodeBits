@@ -482,6 +482,10 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                          <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
+### IoT 
+
+- [Internet of Things Engineer Career Plan](https://www.packtpub.com/mapt/skill-plans/iot-and-hardware/iot-engineer)
+
 ### Youtube Channels:
 
 - [New Boston](https://www.youtube.com/user/thenewboston)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
