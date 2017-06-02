@@ -318,6 +318,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [100+ FREE Resources to Learn Full Stack Web Development](https://hackernoon.com/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2#.i9er39fxl)
 
+- [My Process for Coding Interview (Book) Exercises](https://startupnextdoor.com/my-process-for-coding-interview-book-exercises/)
+
+
 
 ## Online Courses:
 
