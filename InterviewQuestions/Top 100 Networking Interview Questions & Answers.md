@@ -455,3 +455,7 @@ A socket is one endpoint of a two-way communication link between two programs ru
  Socks proxy is a general puporse proxy server that establish TCP connection to another 
 	server on the behalf of a client, then routes all the traffic back and forth between
 	client and the server
+
+### 103) What is the difference between 2.4 GHz and 5 GHz?
+
+The primary differences between the 2.4 GHz and 5GHz wireless frequencies are range and bandwidth. 5GHz provides faster data rates at a shorter distance, whereas 2.4GHz offers coverage for farther distances, but may perform at slower speeds
