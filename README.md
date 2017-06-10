@@ -587,6 +587,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
+- [IT PRO TV](https://itpro.tv/)
 
 ### Best Tech Websites & Blogs :
 
