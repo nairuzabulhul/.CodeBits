@@ -588,7 +588,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                             
+ 
+- [Hack Naked News](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4y0GomF9gD0Dm_YgCwFDPo)
 
 - [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
