@@ -524,7 +524,10 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Dave Xian](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+                                                             
+                                                             
+- [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
                                                              
 ### Extra Resources
 
@@ -540,13 +543,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Udemy](https://www.udemy.com/courses/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                             
-- [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                          
                                              
 - [PacktPub.com](https://www.packtpub.com/) ---- offers a great collection of e-books in IT, Computer Science and Secruity 
@@ -571,11 +567,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Udacity](https://www.udacity.com/)
 
-- [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 - [Tree House](https://teamtreehouse.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
 <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
@@ -588,6 +579,46 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 - [IT PRO TV](https://itpro.tv/) --> __Technical Skills__
+
+
+
+### Podcasts:
+
+- Security Weekly <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                             
+
+- [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                              
+- [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                                                              
+- [The Tech Guy](https://twit.tv/shows/the-tech-guy) 
+
+- [Too Embarrassed to Ask](https://www.recode.net/podcasts/)
+
+- [This Week in Computer Hardware] (https://twit.tv/shows/this-week-in-computer-hardware)
+
+- [The Internet of things](http://iotpodcast.com/)
+
+- [Security Now](https://twit.tv/shows/security-now)
+
+- [Click](http://www.bbc.co.uk/programmes/p002w6r2/episodes/downloads)
+
+- [TechStuff](https://open.spotify.com/show/57wZcoxW8oNs5Mq7WZfTs7)
+                                                              
+ 
+
 
 ### Best Tech Websites & Blogs :
 
