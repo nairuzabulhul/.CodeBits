@@ -584,7 +584,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Podcasts:
 
-- Security Weekly <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Pual's Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4atQRxwAsTux2PmOuWGgAA) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
