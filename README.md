@@ -607,7 +607,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Too Embarrassed to Ask](https://www.recode.net/podcasts/)
 
-- [This Week in Computer Hardware] (https://twit.tv/shows/this-week-in-computer-hardware)
+- [This Week in Computer Hardware](https://twit.tv/shows/this-week-in-computer-hardware)
 
 - [The Internet of things](http://iotpodcast.com/)
 
