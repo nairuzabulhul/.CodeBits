@@ -113,6 +113,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 
+- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally ](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=PHF5FR0RNDR6RM6R1QHN)
+
 ### General Alrogrithm Interview Questions:
 
 - [Top 15 Algorithms Questions](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
