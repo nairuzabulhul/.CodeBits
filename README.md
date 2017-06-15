@@ -644,6 +644,14 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
  
 
 
+### Hardware DIY Projects:
+
+- [Instructable.com](http://www.instructables.com/)
+
+- [Make Use of](http://www.makeuseof.com/)
+
+- [Makezine](http://makezine.com/)
+
 
 ### E-Books __A collection of free e-books__
 
