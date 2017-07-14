@@ -584,6 +584,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [IT PRO TV](https://itpro.tv/) --> __Technical Skills__
 
 
+- [O'RELLY Safari](https://www.safaribooksonline.com/)
+
+
 
 ### Podcasts:
 
