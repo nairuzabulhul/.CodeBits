@@ -7,3 +7,6 @@
 
 [11 most useful PowerShell commands for remote management](https://techtalk.gfi.com/11-most-useful-powershell-commands-for-remote-management/)
 
+
+[10 PowerShell commands every Windows admin should know](http://www.techrepublic.com/blog/10-things/10-powershell-commands-every-windows-admin-should-know/)
+
