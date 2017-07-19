@@ -13,4 +13,4 @@
 
 Git(https://try.github.io)
 
-[Making a Git Pull Request for Specific Commits]http://blog.asquareb.com/blog/2014/06/19/making-a-git-pull-request-for-specific-commits/)
+[Making a Git Pull Request for Specific Commits](http://blog.asquareb.com/blog/2014/06/19/making-a-git-pull-request-for-specific-commits/)
