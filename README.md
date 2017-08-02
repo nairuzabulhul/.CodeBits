@@ -248,10 +248,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     
 - [HackerRank](https://www.hackerrank.com/)
 
-
 - [Geek For Geek](http://www.geeksforgeeks.org/)
 
 - [Hacker Earth](https://www.hackerearth.com)
+
+- [Code Wars](https://www.codewars.com/)
 
 ### Great Online Advice:
 ##### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
