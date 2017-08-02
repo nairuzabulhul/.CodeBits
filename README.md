@@ -664,3 +664,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [E-Books](https://github.com/nairuzabulhul/E-Books)
                                                    
+
+### Best GitHub Repos:
+
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+
+- [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
