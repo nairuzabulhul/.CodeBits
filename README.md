@@ -672,8 +672,20 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Best GitHub Repos:
 
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
-- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
