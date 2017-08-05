@@ -209,6 +209,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Penetration Tester Career Plan](https://www.packtpub.com/mapt/skill-plans/system-administrator/penetration-tester)
 
+- [Frozenrelic](http://www.frozenrelic.com/infosec-resource-list/) __great resources__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ### Databases 
