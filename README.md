@@ -163,14 +163,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Notes on Introduction of Operating Systems by Udacity](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) 
 
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
-<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
-- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
