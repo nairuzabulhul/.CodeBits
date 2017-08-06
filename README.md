@@ -596,6 +596,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [O'RELLY Safari](https://www.safaribooksonline.com/)
 
+- [PentesterLab Bootcamp ](https://pentesterlab.com/bootcamp)
+
 
 
 ### Podcasts:
