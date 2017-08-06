@@ -674,6 +674,9 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### E-Books __A collection of free e-books__
 
 - [E-Books](https://github.com/nairuzabulhul/E-Books)
+
+- [E-Books By Bowwowxx](https://github.com/bowwowxx/eBook)
+
                                                    
 
 ### Best GitHub Repos:
