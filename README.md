@@ -175,7 +175,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Computer Security:
 
-- [100 Top Computer Security Questions and Asnwers](https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
+- [100 Top Computer Security Questions and Answers](https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
 
 
 - [ Volume I : The Complete Cyber Security Course by Nathan House](https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/)
