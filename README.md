@@ -702,3 +702,5 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 - [Pen-Test](https://github.com/wtsxDev/Penetration-Testing)
+
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
