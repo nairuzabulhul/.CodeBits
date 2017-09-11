@@ -704,3 +704,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Pen-Test](https://github.com/wtsxDev/Penetration-Testing)
 
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+
+- [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+
+
