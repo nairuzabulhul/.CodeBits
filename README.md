@@ -263,6 +263,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Code Wars](https://www.codewars.com/)
 
+- [Scaler](https://www.scaler.com/topics/)
+
 ### Great Online Advice:
 ##### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
