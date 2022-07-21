@@ -6,7 +6,7 @@
 <img src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif" width="300">
 
 
-### I was inspired by [@googleasheck](https://twitter.com/googleyasheck) - [Coding Interview University](https://github.com/jwasham/google-interview-university) to create my own list of resources   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+### I was inspired by [@googleasheck](https://twitter.com/googleyasheck) - [Coding Interview University](https://github.com/jwasham/google-interview-university) to create my own list of resources 
 
 
 ###### Note: These are the books and resources I used in my learning journey. The ratings below are based on my opinion.
@@ -30,8 +30,7 @@
 
 
 
-### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-
+### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ) :star::star::star::star::star:
 __Rule #1 Understand the problem__ 
 
 __Rule #2 Solve the problem Manually__ 
@@ -54,32 +53,19 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
    
    - [Problem Solving with Algorithms and Data Structures using Python]( http://interactivepython.org/courselib/static/pythonds/index.html)
    
-   - [Free Code Camp](https://www.freecodecamp.com/) : <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  JavaScript
+   - [Free Code Camp](https://www.freecodecamp.com/) : :star::star::star::star::star:
                     
    - [Cracking the Code Interview](https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=careercup-ctciwebsite-20&linkId=173f3d8878a1d7f0d131a85fbfc9f67f)
    
    - [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
    
-   - [Python for Data Structure, Algorithms and Interviews](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                            
+   - [Python for Data Structure, Algorithms and Interviews](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/) :star::star::star:
                                                              
-   - [Google Interview University](https://github.com/jwasham/google-interview-university)
-                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                             
+   - [Google Interview University](https://github.com/jwasham/google-interview-university) :star::star::star::star::star:
+                                                                                                           
    - Think Like a Programmer: An Introduction to Creative Problem Solving
    
-   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/) :star::star::star::star::star:
 
    
    - The Linux Command Line: A Complete Introduction 
