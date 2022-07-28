@@ -27,7 +27,7 @@
 - [Sorting](https://github.com/nairuzabulhul/.CodeBits/blob/master/Sorting/Contents.md)
 - Backtracking:
 - Dynamic Programming
-
+- [DSA-Complete Guide](https://www.interviewbit.com/courses/programming/)
 
 
 ### Rules to solve problems by John Sonmez [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA&index=6&list=PLjwWT1Xy3c4VrJQgBAEEIXWVcO_9ePsJQ) :star::star::star::star::star:
@@ -100,10 +100,12 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 
 - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally ](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=PHF5FR0RNDR6RM6R1QHN)
+- [Technical Interview Guide](https://www.interviewbit.com/technical-interview-questions/)
 
 ### General Alrogrithm Interview Questions:
 
 - [Top 15 Algorithms Questions](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Algorithm%20Questions.md)
+- [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 
 
@@ -136,6 +138,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### Operating Systems:
 
 - [100 Top Operating Systems Questions](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/100%20Top%20OS%20Questions.md)
+- [OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
 
 - [Operating System Concepts 8th Edition by Abraham Silberschatz](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
@@ -157,6 +160,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                    
 
 
 ### Computer Security:
@@ -209,7 +213,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### Databases 
 
 - [100 Top Databases Questions](https://github.com/nairuzabulhul/.CodeBits/tree/master/Databases)
-
+- [DBMS Technical Interview](https://www.interviewbit.com/dbms-interview-questions/)
 
 
 ### Programming Languages Design [Compilers and Interpreters]
@@ -224,10 +228,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### Linux OS:
 
 - [100 Common Linux Commands](https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
-
-
-
-
+- [Linux Technical Guide](https://www.interviewbit.com/linux-interview-questions/)
   
 ### Interview prep courses:
 
