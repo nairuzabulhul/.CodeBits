@@ -434,40 +434,16 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 
 ### Git Commands
-
-- [Basic Git Commands](https://github.com/quinnliu/gitCommands)
-- [Top Git Commands](https://www.interviewbit.com/blog/git-commands/)
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Top Git Commands](https://www.interviewbit.com/blog/git-commands/) :star::star::star::star::star:
 
 ### Networking & Security Resources:
 
-- [Cybrary](https://www.cybrary.it/)   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                     
+- [Cybrary](https://www.cybrary.it/)   :star::star::star::star::star:
                                                                        
-- [Pentester Academy](http://www.pentesteracademy.com/)   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Pentester Academy](http://www.pentesteracademy.com/) :star::star::star::star:
                                          
-- WireShark- Packet Capturing and Alayasis by Hak5   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
-                                         
+- WireShark- Packet Capturing and Alayasis by Hak5 :star::star::star::star::star:
 
-- [Learning Shell Scripting](https://www.lynda.com/Bash-tutorials/Up-Running-Bash-Scripting/142989-2.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ### IoT 
@@ -476,43 +452,19 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Youtube Channels:
 
-- [New Boston](https://www.youtube.com/user/thenewboston)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [New Boston](https://www.youtube.com/user/thenewboston) :star::star::star::star::star:
                                                             
-- [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy) :star::star::star::star::star:
                                                                        
-- [Hak5](https://www.youtube.com/user/Hak5Darren)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Hak5](https://www.youtube.com/user/Hak5Darren) https://www.youtube.com/user/elithecomputerguy
+                                                                                                                                                                                                      
+- [Slidenerd](https://www.youtube.com/channel/UCbP2HeYGC3kfHjHLMPplZuQ) 
                                                               
-- [Simple Programmer](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                               
-                                                                                                                                                                                                        
-- [Slidenerd](https://www.youtube.com/channel/UCbP2HeYGC3kfHjHLMPplZuQ)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                               
-                                                              
-- [Dave Xian](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+- [Dave Xian](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw) 
                                                              
-                                                             
-- [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
+- [Security Weekly](https://www.youtube.com/c/SecurityWeekly) :star::star::star::star::star:
+
+
                                                              
 ### Extra Resources
 
