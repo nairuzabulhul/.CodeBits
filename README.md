@@ -70,32 +70,15 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
    
    - The Linux Command Line: A Complete Introduction 
    
-   - [Algorithms and Data Structure by btechsmart class](http://btechsmartclass.com/DS/U1_T1.html) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+   - [The Technical Interview Cheat Sheet by TSiege](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) 
    
-   - [The Technical Interview Cheat Sheet by TSiege](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
-   
-   - [LeetCode Solutions in Python, Java and C++ ](https://github.com/kamyu104/LeetCode)
-   
-   - [HackerRank -- Algorithms and Date Structures by Gayle Laakmann McDowell ](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+   - [HackerRank -- Algorithms and Date Structures by Gayle Laakmann McDowell ](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)   :star::star::star::star::star:
  
-- [Sorting Algorithms by Techilageek](http://techilageek.com/category/algorithms/)
- 
-- [Harvard University's  CSC50 Videos](https://github.com/nairuzabulhul/.CodeBits/blob/master/Harvard%20University's%20Videos.md)
-   
-- [Technical Interview Preparation & Questions by q Liu](https://www.youtube.com/playlist?list=PLPXsMt57rLtj6r4FEXpLfRDhLGtktyQ-2)
+- [Harvard University's  CSC50 Videos](https://www.youtube.com/c/cs50/playlists)
 
 - [Algorithms and Data Structures in Python by  Holczer Balazs](https://www.udemy.com/algorithms-and-data-structures-in-python/)
 
-- [Ace Your Coding Interview & Land Your Dream Programming Job by  Brian Jordan](https://www.udemy.com/programming-code-interview/)
-
-- [A list of 370 Free Online Programming & Computer Science Courses by freeCodeCamp ](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) -- >    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   __Five stars for compiling a huge list of FREE courses__
-
+- [A list of 370 Free Online Programming & Computer Science Courses by freeCodeCamp ](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.gll5kqgx0) 
 
 - [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 
