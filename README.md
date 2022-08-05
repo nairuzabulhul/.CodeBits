@@ -133,7 +133,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Notes on Introduction of Operating Systems by Udacity](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) 
 
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
-:star::star::star:star:
+:star::star::star::star:
 
 
 - [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) :star::star::star::star::star:
@@ -145,79 +145,39 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [100 Top Computer Security Questions and Answers](https://github.com/nairuzabulhul/.CodeBits/blob/master/Security/100%20Security%20Questions.md)
 
 
-- [ Volume I : The Complete Cyber Security Course by Nathan House](https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/)
+- [ Volume I : The Complete Cyber Security Course by Nathan House](https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/) :star::star::star::star::star:
 
 
-- [ Volume II: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/network-security-course/) --> __Intermediate Level__  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [ Volume II: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/network-security-course/) --> __Intermediate Level__  :star::star::star::star::star:
 
-- [Volume III: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/the-complete-cyber-security-course-anonymous-browsing/)  --> __Intermediate Level__    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Volume III: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/the-complete-cyber-security-course-anonymous-browsing/)  --> __Intermediate Level__   :star::star::star::star::star:
 
-- [Volume  IV: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/network-security-course/)
-
-
-- [System Security: Basic to advance level course by infySEC UK (5 starts for the delivery of the concepts)](https://www.udemy.com/sys-hacking/) --> __Basic Level__           <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-
-- [ Malware and Security course by infySEC UK (5 starts for the delivery of the concepts)](https://www.udemy.com/malwares/) --> __Intermediate Level__<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    
+- [Volume  IV: The Complete Cyber Security Course by Nathan House](https://www.udemy.com/network-security-course/) :star::star::star::star::star:                   
                     
 - [Cybersecurity Fundamentals by University of Marlyand (Coursera)](https://www.coursera.org/specializations/cyber-security)
-
-- [Penetration Tester Career Plan](https://www.packtpub.com/mapt/skill-plans/system-administrator/penetration-tester)
-
-- [Frozenrelic](http://www.frozenrelic.com/infosec-resource-list/) __great resources__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
 
 
 ### Databases 
 
-- [100 Top Databases Questions](https://github.com/nairuzabulhul/.CodeBits/tree/master/Databases)
 - [DBMS Technical Interview](https://www.interviewbit.com/dbms-interview-questions/)
 
 
 ### Programming Languages Design [Compilers and Interpreters]
-- [Let’s Build A Simple Interpreter by Ruslan Blog](https://ruslanspivak.com/lsbasi-part1/) __Simple Python Interpreter__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Let’s Build A Simple Interpreter by Ruslan Blog](https://ruslanspivak.com/lsbasi-part1/) __Simple Python Interpreter__ :star::star::star::star::star:
 
 
 
 ### Linux OS:
-
-- [100 Common Linux Commands](https://github.com/nairuzabulhul/.CodeBits/blob/master/Linux/100%20Common%20Linux%20Commands.md)
 - [Linux Technical Guide](https://www.interviewbit.com/linux-interview-questions/)
   
+
 ### Interview prep courses:
 
 - [InterviewBit](https://www.interviewbit.com/)
 
 - [Interview Cake](https://www.interviewcake.com/)
 
-- [LeetCode](https://leetcode.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [LeetCode](https://leetcode.com/)  :star::star::star::star::star:
                     
 - [HackerRank](https://www.hackerrank.com/)
 
@@ -560,25 +520,12 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Best Tech Websites & Blogs :
 
-- [The Geek Stuff](http://www.thegeekstuff.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [The Geek Stuff](http://www.thegeekstuff.com/)  
 
-- [Binary Tides](http://www.binarytides.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Binary Tides](http://www.binarytides.com/)  
 
-- [How to Geek](https://www.howtogeek.com/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [How to Geek](https://www.howtogeek.com/)  
                                                               
- 
 
 
 ### Hardware DIY Projects:
@@ -588,35 +535,15 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Make Use of](http://www.makeuseof.com/)
 
 - [Makezine](http://makezine.com/)
-
-
-### E-Books __A collection of free e-books__
-
-- [E-Books](https://github.com/nairuzabulhul/E-Books)
-
-- [E-Books By Bowwowxx](https://github.com/bowwowxx/eBook)
-
-                                                   
+                                                 
 
 ### Best GitHub Repos:
 
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+                 
+- [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
 
-- [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-
-- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) 
                     
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
