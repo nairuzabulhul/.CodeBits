@@ -128,7 +128,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [ Notes from of Operating systems Classes ](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Contents.md)
 
-- [Introduction on Operating Systems by Udacity Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)  :star::star::star:star:
+- [Introduction on Operating Systems by Udacity Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)  :star::star::star::star:
 
 - [Notes on Introduction of Operating Systems by Udacity](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) 
 
@@ -136,7 +136,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 :star::star::star:star:
 
 
-- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) :star::star::star:star:star:
+- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) :star::star::star::star::star:
                     
 
 
