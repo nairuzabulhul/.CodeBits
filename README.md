@@ -123,26 +123,20 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [100 Top Operating Systems Questions](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/100%20Top%20OS%20Questions.md)
 - [OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
 
-- [Operating System Concepts 8th Edition by Abraham Silberschatz](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Operating System Concepts 8th Edition by Abraham Silberschatz](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720) :star::star::star:
                     
 
-- [ Summary Notes of Operating systems Concepts ](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Contents.md)
+- [ Notes from of Operating systems Classes ](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Operating%20Systems%20Concepts/Contents.md)
 
-- [Introduction on Operating Systems by Udacity Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)   __-- >Basic Level__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+- [Introduction on Operating Systems by Udacity Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)  :star::star::star:star:
 
 - [Notes on Introduction of Operating Systems by Udacity](https://github.com/nairuzabulhul/.CodeBits/blob/master/Operating%20Systems/Contents.md) 
 
 - [Operating Systems by Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
-<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+:star::star::star:star:
 
 
-- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Operating System Videos by Tutorial Points](https://www.tutorialspoint.com/operating_system/os_getting_started.asp) :star::star::star:star:star:
                     
 
 
