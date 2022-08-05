@@ -404,6 +404,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### IoT 
 
 - [Internet of Things Engineer Career Plan](https://www.packtpub.com/mapt/skill-plans/iot-and-hardware/iot-engineer)
+-
 
 ### Youtube Channels:
 
@@ -411,8 +412,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                             
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy) :star::star::star::star::star:
                                                                        
-- [Hak5](https://www.youtube.com/user/Hak5Darren) https://www.youtube.com/user/elithecomputerguy
-                                                                                                                                                                                                      
+- [Hak5](https://www.youtube.com/user/Hak5Darren)                                                                                                                                                                             
 - [Slidenerd](https://www.youtube.com/channel/UCbP2HeYGC3kfHjHLMPplZuQ) 
                                                               
 - [Dave Xian](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw) 
@@ -481,29 +481,13 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Podcasts:
 
-- [Pual's Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4atQRxwAsTux2PmOuWGgAA) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
+- [Pual's Security Weekly](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4atQRxwAsTux2PmOuWGgAA)  
  
 - [Hack Naked News](https://www.youtube.com/playlist?list=PLlPkFwQHxYE4y0GomF9gD0Dm_YgCwFDPo)
 
-- [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Timothy de Block](http://www.timothydeblock.com/eis/) __Infosec Podcast__   
                                                               
-- [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              
-- [The Tech Guy](https://twit.tv/shows/the-tech-guy) 
-
-- [Too Embarrassed to Ask](https://www.recode.net/podcasts/)
+- [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)                                             
 
 - [This Week in Computer Hardware](https://twit.tv/shows/this-week-in-computer-hardware)
 
@@ -539,7 +523,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Best GitHub Repos:
 
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
                  
 - [Best Websites a Programmer Should Visit ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
 
