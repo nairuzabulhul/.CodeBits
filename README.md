@@ -314,6 +314,8 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                  
   
   - [Python for Security](https://www.udemy.com/python-for-offensive-security-practical-course/?start=0)
+
+  - [Learn python Programming](https://www.scaler.com/topics/python/)
   
   - [Python Developer Career Path ](https://www.packtpub.com/mapt/skill-plans/programmer/python-developer)
   
