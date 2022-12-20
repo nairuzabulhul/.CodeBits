@@ -423,60 +423,25 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
                                                              
 ### Extra Resources
 
-- [TalkPython](https://talkpython.fm/episodes/all) <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                              
-- [Lynda](https://www.lynda.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  
-- [Udemy](https://www.udemy.com/courses/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                         
-                                             
-- [PacktPub.com](https://www.packtpub.com/) ---- offers a great collection of e-books in IT, Computer Science and Secruity 
-                                                               <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [TalkPython](https://talkpython.fm/episodes/all) :star::star::star::star::star:
+                                                               
+- [Udemy](https://www.udemy.com/courses/) :star::star::star::star::star:
+                                                                                                
+- [PacktPub.com](https://www.packtpub.com/) offers a great collection of e-books in IT, Computer Science and Secruity :star::star::star::star:
+                                                   
+- [Plural Sight](https://www.pluralsight.com) :star::star::star::star::star:
 
+- [Real Python](https://realpython.com/) :star::star::star::star::star:
 
-- [Computer Science Videos by Tutorial Points](https://vimeo.com/user52050560/videos/)   __Algorithm, DS, OS __
+- [Udacity](https://www.udacity.com/) :star::star::star::star:
 
+- [Tree House](https://teamtreehouse.com/) 
 
-- [Linux Academy](https://linuxacademy.com/)
-
-
-- [Plural Sight](https://www.pluralsight.com)
-
-
-- [Real Python](https://realpython.com/)
-
-
-- [Udacity](https://www.udacity.com/)
-
-
-- [Tree House](https://teamtreehouse.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
-<img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.png" width="10">
-
-
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                             <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
 
 - [IT PRO TV](https://itpro.tv/) --> __Technical Skills__
 
-
-- [O'RELLY Safari](https://www.safaribooksonline.com/)
-
 - [PentesterLab Bootcamp ](https://pentesterlab.com/bootcamp)
-
 
 
 ### Podcasts:
@@ -500,7 +465,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [TechStuff](https://open.spotify.com/show/57wZcoxW8oNs5Mq7WZfTs7)
                                                               
  
-
 
 ### Best Tech Websites & Blogs :
 
