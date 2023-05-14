@@ -231,16 +231,13 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 &nbsp;
 ## Online Courses:
 ### Python :
-
   - [Import Python](http://importpython.com/books/) - A collection of Python books from novice to expert 
   - Python for Beginners by Alex Bowers 
-  - Complete Python BootCamp by Jose Portilla(https://www.udemy.com/course/complete-python-bootcamp/)
-  
-  - Ultimate Python Programming Tutorial by Infinite Skills
+  - [Complete Python BootCamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
              
   - [Python Tutorials by Code Academy](https://www.codecademy.com/learn/python)
           
-  - [Treehouse Django Tutorials](https://teamtreehouse.com/tracks/learn-django)      
+  - [Treehouse Django Tutorials](https://teamtreehouse.com/library)      
                     
   - [Django Tutorials for Beginners by NewBoston](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
                  
@@ -255,58 +252,26 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 &nbsp;
 ### JavaScript :
 
-- [Free Code Camp ](https://www.freecodecamp.com/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Free Code Camp ](https://www.freecodecamp.com/) 
                 
-- [Web Development BootCamp by Colt Steele (Udemy online Course)](https://www.udemy.com/the-web-developer-bootcamp/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Web Development BootCamp by Colt Steele (Udemy online Course)](https://www.udemy.com/the-web-developer-bootcamp/)  
                                                                          
-- [Ultimate Web Designer and Developer Course by Brad Hussey](https://www.udemy.com/web-developer-course/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                           <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                           <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                           
-- The Compelete Web Developer Course- Build 14 website v1.0 by Rob Percival <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                       
-                                                                       
-- [JavaScript from Beginner to Expert by Arkadiusz Włodarczyk](https://www.udemy.com/javascript-from-beginner-to-expert-bring-life-to-your-site/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                                                                
-                                                                       
-- [Projects in JavaScript & jQuery  by Edonix](https://www.udemy.com/projects-in-javascript-jquery/)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                      <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                      
+- [Ultimate Web Designer and Developer Course by Brad Hussey](https://www.udemy.com/web-developer-course/) 
+ 
+- The Compelete Web Developer Course- Build 14 website v1.0 by Rob Percival 
 
-- [The Complete BootStrap: Master Class Course Build 4 projects by Joe Parys](https://www.udemy.com/bootstrapcourse/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                              <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                                                      
+- [JavaScript from Beginner to Expert by Arkadiusz Włodarczyk](https://www.udemy.com/javascript-from-beginner-to-expert-bring-life-to-your-site/)        
                                                                        
+- [Projects in JavaScript & jQuery  by Edonix](https://www.udemy.com/projects-in-javascript-jquery/)  
+
+- [The Complete BootStrap: Master Class Course Build 4 projects by Joe Parys](https://www.udemy.com/bootstrapcourse/) 
 
 ### C Programming:
 
 - [C programming Tutorials by NewBoston ](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-                                       <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-
+                                       
 - [Computer Systems programming in C by q Liu](https://www.youtube.com/playlist?list=PLPXsMt57rLtjNzxZBDg9xJB7KT83WStBO)
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                        <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                                         <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
-   
-                                      
+                                    
 - [C Programming in Linux Tutorial by ShellWaveX](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 
 - [C Programming Tutorials by the Bad Tutorials ](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
@@ -322,8 +287,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [List of C Practice Programs by Crazy Programmer](http://www.thecrazyprogrammer.com/c-programs) 
   
 
-
-
 ### Git Commands
 - [Top Git Commands](https://www.interviewbit.com/blog/git-commands/) :star::star::star::star::star:
 
@@ -334,7 +297,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [Pentester Academy](http://www.pentesteracademy.com/) :star::star::star::star:
                                          
 - WireShark- Packet Capturing and Alayasis by Hak5 :star::star::star::star::star:
-
 
 
 ### IoT 
