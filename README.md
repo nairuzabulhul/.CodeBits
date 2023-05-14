@@ -187,27 +187,13 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews by Hasseeb Qureshi](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)   
 
-- [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.kfgnh52da)
-
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
 
-- [END TO END GUIDE ON LANDING A JOB IN TECH INDUSTRY](http://www.mohsinali.net/guide.html)
+- [The Technical Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
-- [How to Crack The Coding Interview With Practicing Only 30 Questions](http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
-
-- [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
-
-- [I've been struggling with Cracking the Coding problems. How do I get better at these problems?](https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
-                 
 - [How to Work at Google: Example Coding/Engineering Interview](https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
 
-- [Applying to Google: How to Ace the Engineering and Technical Interview](https://www.youtube.com/watch?v=55aEVvITNJ0)
-
 - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-
-- [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-
-- [7 Steps to Solve Algorithm Problems](https://www.youtube.com/watch?v=GKgAVjJxh9w)
 
 - [How can I prepare for a tough coding interview in one week? - Quora ](https://www.quora.com/How-can-I-prepare-for-a-tough-coding-interview-in-one-week)
 
@@ -228,6 +214,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 - [100+ FREE Resources to Learn Full Stack Web Development](https://hackernoon.com/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2#.i9er39fxl)
 
 - [My Process for Coding Interview (Book) Exercises](https://startupnextdoor.com/my-process-for-coding-interview-book-exercises/)
+
 &nbsp;
 ## Online Courses:
 ### Python :
