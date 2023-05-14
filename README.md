@@ -94,7 +94,7 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 ### Computer Networking :
 
-- [100 Top Networking Questions and Answers](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [100 Top Networking Questions and Answers](https://github.com/nairuzabulhul/Algorithms_in_Python/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)  
    
 -  [Volient Python ](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1597499579&pd_rd_r=5C5E512J452R8PW2PE6H&pd_rd_w=LhlpR&pd_rd_wg=KSEN0&psc=1&refRID=5C5E512J452R8PW2PE6H)
    
@@ -102,13 +102,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [100 Resources for Computer Networks](https://github.com/nairuzabulhul/.CodeBits/blob/master/Networks/Contents.md)  
 
-- [NMap 101 byHAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO) --> __Basic Level__<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [NMap 101 byHAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO) 
 
-- [Netcat by HAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL) -->__Basic Level__<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Netcat by HAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL) 
 
-
-- [Wireshark  by HAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)  -->__Basic Level__<img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-
+- [Wireshark  by HAK5](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)  
 
 - [Python Network Programming - Part 1: Build 7 Python Apps](https://www.udemy.com/python-programming-for-real-life-networking-use/)
 
@@ -192,44 +190,20 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### Great Online Advice:
 ##### This section for articles and videos that provided me with a great advice in how to prepare well for interviews.
 
-- [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews by Hasseeb Qureshi](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
+- [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews by Hasseeb Qureshi](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)   
 
 - [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.kfgnh52da)
 
 - [Ace the coding interview, every time](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#.i0mtz0uph)
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">   
 
 - [END TO END GUIDE ON LANDING A JOB IN TECH INDUSTRY](http://www.mohsinali.net/guide.html)
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">  
 
 - [How to Crack The Coding Interview With Practicing Only 30 Questions](http://blog.gainlo.co/index.php/2015/12/22/how-to-crack-the-coding-interview-with-practicing-only-30-questions/)
 
 - [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
-                     <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
 
 - [I've been struggling with Cracking the Coding problems. How do I get better at these problems?](https://www.quora.com/Ive-been-struggling-with-Cracking-the-Coding-problems-How-do-I-get-better-at-these-problems)
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                   <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
-                    <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"> 
-                    
+                 
 - [How to Work at Google: Example Coding/Engineering Interview](https://www.youtube.com/watch?v=wwIysnVmAUg&feature=youtu.be)
 
 - [Applying to Google: How to Ace the Engineering and Technical Interview](https://www.youtube.com/watch?v=55aEVvITNJ0)
@@ -248,11 +222,11 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 
 - [Interview by Andreis - GitHub](https://github.com/andreis/interview)
 
-- [Going from Beginner to Pro as a Developer](https://www.youtube.com/watch?v=HXfa8EY3WeE) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Going from Beginner to Pro as a Developer](https://www.youtube.com/watch?v=HXfa8EY3WeE) 
 
-- [Importance of Sorting Algorithms](https://www.youtube.com/watch?v=hOkPg3rXt34) <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Importance of Sorting Algorithms](https://www.youtube.com/watch?v=hOkPg3rXt34) 
 
-- [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA) __Basic Rules to approach Coding Problems__ <img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10"><img src="https://s11.postimg.org/4xe7kokxf/star.pngg" width="10">
+- [Improving Your Coding Problem Solving Skills](https://www.youtube.com/watch?v=WUIZBnfYxSA) 
 
 - [Learn How to Code: Guide to Memorization](https://www.youtube.com/watch?v=M4tfWxXx4ts&index=28&list=PLgYiyoyNPrv_SBqseugANFpZsgw7hMbZN)
 
