@@ -269,10 +269,6 @@ __Rule #7 Break the program by inserting invalid inputs to get edge cases__
 ### C Programming:
 
 - [C programming Tutorials by NewBoston ](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-                                       
-- [Computer Systems programming in C by q Liu](https://www.youtube.com/playlist?list=PLPXsMt57rLtjNzxZBDg9xJB7KT83WStBO)
-                                    
-- [C Programming in Linux Tutorial by ShellWaveX](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 
 - [C Programming Tutorials by the Bad Tutorials ](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 
